@@ -21,11 +21,29 @@ def game_scrape(year, conf):
 		if result["id"] not in game_list:
 			game_list[result["id"]] = {}
 
+def results_scrape(year, game):
+	data = {
+		'year' : year,
+		'gameId' : game
+	}
+
+	response = requests.get(stats_url, params=data)
+	if not response.ok:
+		response.raise_for_status()
+
+	results = response.json()
+	print(results)
+
 def main():
+
+	'''
 	for conf in conferences:
 		print(conf)
 		game_scrape(2018, conf)
 		print(len(game_list))
+	'''
+
+	results_scrape(2018, 401013169)
 
 if __name__ == '__main__':
 	main()
