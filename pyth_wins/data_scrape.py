@@ -1,5 +1,6 @@
 import requests
 import json
+import string
 
 game_list = {}
 games_url = 'https://api.collegefootballdata.com/games' 			#list of games
@@ -32,7 +33,18 @@ def results_scrape(year, game):
 		response.raise_for_status()
 
 	results = response.json()
-	print(results)
+
+	team_1_stats = results[0]["teams"][0]["stats"]
+	team_2_stats = results[0]["teams"][1]["stats"]
+
+	team_1_ypp = (float(team_1_stats[7]["stat"]) + float(team_1_stats[10]["stat"])) / (float(team_1_stats[8]["stat"]) + float(team_1_stats[9]["stat"].split('-')[1]))
+	team_2_ypp = (float(team_2_stats[7]["stat"]) + float(team_2_stats[10]["stat"])) / (float(team_2_stats[8]["stat"]) + float(team_2_stats[9]["stat"].split('-')[1]))
+	relevant = {}
+	relevant["to_margin"] = int(team_1_stats[3]["stat"]) - int(team_2_stats[3]["stat"])
+	relevant["ypp_margin"] = round(team_1_ypp - team_2_ypp, 2)
+	relevant["yds_margin"] = int(team_1_stats[11]["stat"]) - int(team_2_stats[11]["stat"])
+
+	print(relevant)
 
 def main():
 
