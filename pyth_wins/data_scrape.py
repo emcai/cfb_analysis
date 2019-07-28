@@ -9,6 +9,23 @@ games_url = 'https://api.collegefootballdata.com/games' 			#list of games
 stats_url = 'https://api.collegefootballdata.com/games/teams' 		#statistics of games for each team
 conferences = ["ACC", "B12", "B1G", "SEC", "PAC", "CUSA", "MAC", "MWC", "Ind", "SBC", "AAC"]
 
+def find_indexes(stats):
+	to_return = [-1, -1, -1, -1]
+	for x in range(len(stats)):
+		if stats[x]["category"] == "totalYards":
+			to_return[0] = x
+		elif stats[x]["category"] == "rushingAttempts":
+			to_return[1] = x
+		elif stats[x]["category"] == "completionAttempts":
+			to_return[2] = x
+		elif stats[x]["category"] == "turnovers":
+			to_return[3] = x
+	if to_return[0] == -1 or to_return[1] == -1 or to_return[2] == -1 or to_return[3] == -1:
+		return None
+	if int(stats[to_return[0]]["stat"]) == 0:
+		return None
+	return to_return
+
 def game_scrape(year, conf = None, team = None):
 	if conf is not None:
 		data = {
@@ -65,23 +82,28 @@ def results_scrape(year, conf = None, game = None, team = None):
 		if result["id"] not in game_list:
 			continue
 		game = result["id"]
+		if len(result["teams"]) != 2:
+			continue
 		team_1_stats = result["teams"][0]["stats"]
 		team_2_stats = result["teams"][1]["stats"]
 
-		team_1_ypp = float(team_1_stats[11]["stat"]) / (float(team_1_stats[6]["stat"]) + float(team_1_stats[9]["stat"].split('-')[1]))
-		team_2_ypp = float(team_2_stats[11]["stat"]) / (float(team_2_stats[6]["stat"]) + float(team_2_stats[9]["stat"].split('-')[1]))
-		print(round(team_1_ypp, 2))
-		print(round(team_2_ypp, 2))
+		
+		team_1_indexes = find_indexes(team_1_stats)
+		team_2_indexes = find_indexes(team_2_stats)
+		if team_1_indexes == None or team_2_indexes == None:
+			continue
+
+		team_1_ypp = float(team_1_stats[team_1_indexes[0]]["stat"]) / (float(team_1_stats[team_1_indexes[1]]["stat"]) + float(team_1_stats[team_1_indexes[2]]["stat"].split('-')[1]))
+		team_2_ypp = float(team_2_stats[team_2_indexes[0]]["stat"]) / (float(team_2_stats[team_2_indexes[1]]["stat"]) + float(team_2_stats[team_2_indexes[2]]["stat"].split('-')[1]))
 		relevant = {}
 		relevant["info"] = game_list[game]["info"]
-		relevant["to_margin"] = int(team_1_stats[3]["stat"]) - int(team_2_stats[3]["stat"])
+		relevant["to_margin"] = int(team_1_stats[team_1_indexes[3]]["stat"]) - int(team_2_stats[team_2_indexes[3]]["stat"])
 		relevant["ypp_margin"] = round(team_1_ypp - team_2_ypp, 2)
-		relevant["yds_margin"] = int(team_1_stats[11]["stat"]) - int(team_2_stats[11]["stat"])
+		relevant["yds_margin"] = int(team_1_stats[team_1_indexes[0]]["stat"]) - int(team_2_stats[team_2_indexes[0]]["stat"])
 		relevant["result"] = game_list[game]["result"]
 
 		stats_list[game] = relevant
 		del game_list[game]
-
 
 def main():
 
@@ -99,11 +121,14 @@ def main():
 	print(game_list)
 	'''
 
-	game_scrape(2018, team="Michigan")
-	results_scrape(2018, team="Michigan")
-	#print(game_list)
-	print("\n\n\n")
-	print(stats_list)
+	for conf in conferences:
+		game_scrape(2018, conf=conf)
+		results_scrape(2018, conf=conf)
+	print(len(game_list))
+	print(len(stats_list))
+
+	#print("\n\n\n")
+	#print(stats_list)
 	#print(results_scrape(2018, game=401012821))
 	
 
