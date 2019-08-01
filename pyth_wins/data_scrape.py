@@ -1,10 +1,10 @@
 import requests
 import json
 import string
-import copy
+import csv
 
 game_list = {}
-stats_list = {}
+stats_list = []
 games_url = 'https://api.collegefootballdata.com/games' 			#list of games
 stats_url = 'https://api.collegefootballdata.com/games/teams' 		#statistics of games for each team
 conferences = ["ACC", "B12", "B1G", "SEC", "PAC", "CUSA", "MAC", "MWC", "Ind", "SBC", "AAC"]
@@ -102,35 +102,34 @@ def results_scrape(year, conf = None, game = None, team = None):
 		relevant["yds_margin"] = int(team_1_stats[team_1_indexes[0]]["stat"]) - int(team_2_stats[team_2_indexes[0]]["stat"])
 		relevant["result"] = game_list[game]["result"]
 
-		stats_list[game] = relevant
+		stats_list.append(relevant)
 		del game_list[game]
 
 def main():
-
-	#Code to get all game IDs
-	'''
-	for conf in conferences:
-		print(conf)
-		game_scrape(2018, conf=conf)
-		print(len(game_list))
-	'''
-
-	#Code to print info for a single team
-	'''
-	game_scrape(2018, team="TCU")
-	print(game_list)
-	'''
-
 	for conf in conferences:
 		game_scrape(2018, conf=conf)
 		results_scrape(2018, conf=conf)
-	print(len(game_list))
-	print(len(stats_list))
 
-	#print("\n\n\n")
-	#print(stats_list)
-	#print(results_scrape(2018, game=401012821))
-	
+	csv_columns = ["info", "to_margin", "ypp_margin", "yds_margin", "result"]
+	with open('2018.csv', 'w') as csvfile:
+		writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+		writer.writeheader()
+		for data in stats_list:
+			writer.writerow(data)
+
+	game_list.clear()
+	stats_list.clear()
+
+	for conf in conferences:
+		game_scrape(2017, conf=conf)
+		results_scrape(2017, conf=conf)
+
+	csv_columns = ["info", "to_margin", "ypp_margin", "yds_margin", "result"]
+	with open('2017.csv', 'w') as csvfile:
+		writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+		writer.writeheader()
+		for data in stats_list:
+			writer.writerow(data)
 
 if __name__ == '__main__':
 	main()
