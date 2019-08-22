@@ -56,6 +56,7 @@ def game_scrape(year, conf = None, team = None):
 			else:
 				game_list[result["id"]]["result"] = 0
 
+#Parses all data in a given conference/game/team and adds it to the stats_list list
 def results_scrape(year, conf = None, game = None, team = None):
 	if game is not None:
 		data = {
@@ -93,8 +94,10 @@ def results_scrape(year, conf = None, game = None, team = None):
 		if team_1_indexes == None or team_2_indexes == None:
 			continue
 
+		#calculate yards per play margin
 		team_1_ypp = float(team_1_stats[team_1_indexes[0]]["stat"]) / (float(team_1_stats[team_1_indexes[1]]["stat"]) + float(team_1_stats[team_1_indexes[2]]["stat"].split('-')[1]))
 		team_2_ypp = float(team_2_stats[team_2_indexes[0]]["stat"]) / (float(team_2_stats[team_2_indexes[1]]["stat"]) + float(team_2_stats[team_2_indexes[2]]["stat"].split('-')[1]))
+		
 		relevant = {}
 		relevant["info"] = game_list[game]["info"]
 		relevant["to_margin"] = int(team_1_stats[team_1_indexes[3]]["stat"]) - int(team_2_stats[team_2_indexes[3]]["stat"])
@@ -106,6 +109,7 @@ def results_scrape(year, conf = None, game = None, team = None):
 		del game_list[game]
 
 def main():
+	#get 2018 data
 	for conf in conferences:
 		game_scrape(2018, conf=conf)
 		results_scrape(2018, conf=conf)
@@ -120,6 +124,7 @@ def main():
 	game_list.clear()
 	stats_list.clear()
 
+	#get 2017 data
 	for conf in conferences:
 		game_scrape(2017, conf=conf)
 		results_scrape(2017, conf=conf)

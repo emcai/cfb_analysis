@@ -2,6 +2,8 @@
 Analyzing college football data to create both predictions and rankings of past success
 
 # 1.1: Data Scraping
+Location: data_scrape/data_scrape.py
+
 Using the college football API found at https://api.collegefootballdata.com/api/docs/?url=/api-docs.json, I get data from all regular-season games played by FBS teams in 2017 and 2018. 
 
 As an example, I will use 2018's Michigan @ Michigan State game for data. The ESPN box score can be found here: https://www.espn.com/college-football/game?gameId=401012884
