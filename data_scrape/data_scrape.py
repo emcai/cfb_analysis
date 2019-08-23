@@ -8,7 +8,9 @@ stats_list = []
 games_url = 'https://api.collegefootballdata.com/games' 			#list of games
 stats_url = 'https://api.collegefootballdata.com/games/teams' 		#statistics of games for each team
 conferences = ["ACC", "B12", "B1G", "SEC", "PAC", "CUSA", "MAC", "MWC", "Ind", "SBC", "AAC"]
+exclusion_list = []
 
+#get indices of the relevant data, given the API output
 def find_indexes(stats):
 	to_return = [-1, -1, -1, -1]
 	for x in range(len(stats)):
@@ -26,6 +28,7 @@ def find_indexes(stats):
 		return None
 	return to_return
 
+#make API call to get game IDs of all FBS games
 def game_scrape(year, conf = None, team = None):
 	if conf is not None:
 		data = {
@@ -51,6 +54,7 @@ def game_scrape(year, conf = None, team = None):
 			else:
 				game_string += (result["away_team"] + " vs " + result["home_team"] + ": " + str(result["away_points"]) + "-" + str(result["home_points"]))
 			game_list[result["id"]] = {"info" : game_string}
+			#mark the game winner
 			if result["away_points"] < result["home_points"]:
 				game_list[result["id"]]["result"] = 1
 			else:
@@ -80,24 +84,30 @@ def results_scrape(year, conf = None, game = None, team = None):
 
 	results = response.json()
 	for result in results:
+		#check if API results are well-formatted
 		if result["id"] not in game_list:
 			continue
 		game = result["id"]
 		if len(result["teams"]) != 2:
+			#print("\n\n\n" + result["teams"][0])
+			exclusion_list.append((result["teams"][0]["school"], result["teams"][1]["school"]))
 			continue
+
+		#parse API data
 		team_1_stats = result["teams"][0]["stats"]
 		team_2_stats = result["teams"][1]["stats"]
-
-		
 		team_1_indexes = find_indexes(team_1_stats)
 		team_2_indexes = find_indexes(team_2_stats)
 		if team_1_indexes == None or team_2_indexes == None:
+			#print("\n\n\n".join(['%s:: %s' % (key, value) for (key, value) in result["teams"][0].items()]))
+			exclusion_list.append((result["teams"][0]["school"], result["teams"][1]["school"]))
 			continue
 
 		#calculate yards per play margin
 		team_1_ypp = float(team_1_stats[team_1_indexes[0]]["stat"]) / (float(team_1_stats[team_1_indexes[1]]["stat"]) + float(team_1_stats[team_1_indexes[2]]["stat"].split('-')[1]))
 		team_2_ypp = float(team_2_stats[team_2_indexes[0]]["stat"]) / (float(team_2_stats[team_2_indexes[1]]["stat"]) + float(team_2_stats[team_2_indexes[2]]["stat"].split('-')[1]))
 		
+		#build the result dict
 		relevant = {}
 		relevant["info"] = game_list[game]["info"]
 		relevant["to_margin"] = int(team_1_stats[team_1_indexes[3]]["stat"]) - int(team_2_stats[team_2_indexes[3]]["stat"])
@@ -121,6 +131,7 @@ def main():
 		for data in stats_list:
 			writer.writerow(data)
 
+	print(exclusion_list)
 	game_list.clear()
 	stats_list.clear()
 

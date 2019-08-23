@@ -31,3 +31,9 @@ I use individual game statistics and get the following data as an example:
 "result" : Boolean value. 1 if the home team won, 0 if the home team loses. This is the value the model attempts to predict.
 
 Each data result is indexed by the Game ID that ESPN assigns to an individual game. For this game, ESPN assigned a Game ID of 401012884.
+
+# 1.2: Pythagorean Wins
+Run this command to get the model in the base directory of the repo:
+```
+python pyth_wins/train_model.py data_scrape/2017.csv data_scrape/2018.csv > out.out
+```
