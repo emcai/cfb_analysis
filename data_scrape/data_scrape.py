@@ -117,11 +117,13 @@ def results_scrape(year, conf = None, game = None, team = None):
 
 		stats_list.append(relevant)
 		del game_list[game]
-
+	
 def main():
 	#get 2018 data
 	for conf in conferences:
 		game_scrape(2018, conf=conf)
+		
+	for conf in conferences:
 		results_scrape(2018, conf=conf)
 
 	csv_columns = ["info", "to_margin", "ypp_margin", "yds_margin", "result"]
@@ -138,6 +140,8 @@ def main():
 	#get 2017 data
 	for conf in conferences:
 		game_scrape(2017, conf=conf)
+		
+	for conf in conferences:
 		results_scrape(2017, conf=conf)
 
 	csv_columns = ["info", "to_margin", "ypp_margin", "yds_margin", "result"]
