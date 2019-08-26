@@ -35,5 +35,7 @@ Each data result is indexed by the Game ID that ESPN assigns to an individual ga
 # 1.2: Pythagorean Wins
 Run this command to get the model in the base directory of the repo:
 ```
-python pyth_wins/train_model.py data_scrape/2017.csv data_scrape/2018.csv > out.out
+python pyth_wins/train_model.py data_scrape/2017.csv data_scrape/2018_Edited.csv > out.out
 ```
+
+The result of the model will be in the file "out.out" in the base directory of the repo.
