@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 
 def load_data(file_name):
 	dataset = []
-	with open(file_name) as csvfile:
+	with open(file_name,encoding = "ISO-8859-1") as csvfile:
 		reader = csv.reader(csvfile)
 		for row in reader:
 			dataset.append(row)
@@ -27,12 +27,12 @@ def extract_games(games):
 		tmp_arr = []
 		if len(tmp_string.split('@')) > 1:
 			tmp_string = tmp_string.split('@')
-			tmp_arr.append(tmp_string[0])
-			tmp_arr.append(tmp_string[1])
+			tmp_arr.append(tmp_string[0].strip())
+			tmp_arr.append(tmp_string[1].strip())
 		else:
 			tmp_string = tmp_string.split('vs')
-			tmp_arr.append(tmp_string[0])
-			tmp_arr.append(tmp_string[1])
+			tmp_arr.append(tmp_string[0].strip())
+			tmp_arr.append(tmp_string[1].strip())
 		game_list.append(tmp_arr)
 	return game_list
 
@@ -43,7 +43,6 @@ def main():
 		exit()
 	X_train, Y_train, games = load_data(sys.argv[1])
 	X_test, Y_test, games = load_data(sys.argv[2])
-	print(games)
 
 	clf = LogisticRegression()
 	clf.fit(X_train, Y_train)
@@ -51,7 +50,7 @@ def main():
 	Y_prob = clf.predict_proba(X_test)
 
 	for x in range(len(Y_prob)):
-		print((x + 2, Y_prob[x][1], Y_predicted[x]))
+		print((games[x], Y_prob[x][1], Y_predicted[x]))
 
 if __name__ == '__main__':
 	main()

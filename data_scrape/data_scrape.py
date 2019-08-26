@@ -133,7 +133,6 @@ def main():
 		for data in stats_list:
 			writer.writerow(data)
 
-	print(exclusion_list)
 	game_list.clear()
 	stats_list.clear()
 
