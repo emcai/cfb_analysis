@@ -29,12 +29,14 @@ def find_indexes(stats):
 	return to_return
 
 #make API call to get game IDs of all FBS games
-def game_scrape(year, conf = None, team = None):
+def game_scrape(year, conf = None, team = None, postseason = False):
 	if conf is not None:
 		data = {
 			'year' : year,
 			'conference' : conf
 		}
+		if postseason:
+			data["seasonType"] = "postseason"
 	else:
 		data = {
 			'year' : year,
@@ -61,7 +63,7 @@ def game_scrape(year, conf = None, team = None):
 				game_list[result["id"]]["result"] = 0
 
 #Parses all data in a given conference/game/team and adds it to the stats_list list
-def results_scrape(year, conf = None, game = None, team = None):
+def results_scrape(year, conf = None, game = None, team = None, postseason = False):
 	if game is not None:
 		data = {
 			'year' : year,
@@ -72,6 +74,8 @@ def results_scrape(year, conf = None, game = None, team = None):
 			'year' : year,
 			'conference' : conf
 		}
+		if postseason:
+			data["seasonType"] = "postseason"
 	else:
 		data = {
 			'year' : year,
@@ -122,9 +126,11 @@ def main():
 	#get 2018 data
 	for conf in conferences:
 		game_scrape(2018, conf=conf)
+		game_scrape(2018, conf=conf, postseason=True)
 		
 	for conf in conferences:
 		results_scrape(2018, conf=conf)
+		results_scrape(2018, conf=conf, postseason=True)
 
 	csv_columns = ["info", "to_margin", "ypp_margin", "yds_margin", "result"]
 	with open('2018.csv', 'w') as csvfile:
@@ -132,6 +138,8 @@ def main():
 		writer.writeheader()
 		for data in stats_list:
 			writer.writerow(data)
+			
+	print(exclusion_list)
 
 	game_list.clear()
 	stats_list.clear()
@@ -139,9 +147,11 @@ def main():
 	#get 2017 data
 	for conf in conferences:
 		game_scrape(2017, conf=conf)
+		game_scrape(2017, conf=conf, postseason=True)
 		
 	for conf in conferences:
 		results_scrape(2017, conf=conf)
+		results_scrape(2017, conf=conf, postseason=True)
 
 	csv_columns = ["info", "to_margin", "ypp_margin", "yds_margin", "result"]
 	with open('2017.csv', 'w') as csvfile:

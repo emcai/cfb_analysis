@@ -1,834 +1,874 @@
-info,to_margin,ypp_margin,yds_margin,result
-Presbyterian College @ Wake Forest: 7-51,0,2.17,239,1
-Central Connecticut @ Syracuse: 7-50,1,3.37,419,1
-Boston College @ Northern Illinois: 23-20,0,1.27,28,0
-Florida State vs Alabama: 7-24,-3,0.32,19,1
-Kent State @ Clemson: 3-56,1,6.08,545,1
-California @ North Carolina: 35-30,1,-1.48,-29,0
-Youngstown State @ Pittsburgh: 21-28,0,-2.69,-70,1
-NC State vs South Carolina: 28-35,-1,-0.17,-258,1
-William & Mary @ Virginia: 10-28,-1,0.47,114,1
-North Carolina Central @ Duke: 7-60,-1,3.24,366,1
-West Virginia vs Virginia Tech: 24-31,-1,-0.14,-123,1
-Tennessee vs Georgia Tech: 42-41,2,0.57,286,0
-Auburn @ Clemson: 6-14,2,2.42,164,1
-Pittsburgh @ Penn State: 14-33,-2,2.02,-30,1
-Louisville @ North Carolina: 47-35,0,-1.92,-304,0
-Delaware @ Virginia Tech: 0-27,-1,1.78,80,1
-Northwestern @ Duke: 17-41,-1,1.64,347,1
-Jacksonville State @ Georgia Tech: 10-37,-3,2.12,133,1
-Wake Forest @ Boston College: 34-10,4,-0.63,-4,0
-Indiana @ Virginia: 34-17,-1,-0.89,6,0
-Middle Tennessee @ Syracuse: 30-23,-1,-1.95,-55,0
-Marshall @ NC State: 20-37,-2,0.4,34,1
-Clemson @ Louisville: 47-21,1,-1.29,-180,0
-Oklahoma State @ Pittsburgh: 59-21,0,-3.72,-285,0
-Virginia Tech @ East Carolina: 64-17,3,-2.5,-394,0
-Connecticut @ Virginia: 18-38,-1,2.34,192,1
-Furman @ NC State: 16-49,-3,2.12,161,1
-Baylor @ Duke: 20-34,-2,-0.25,110,1
-Utah State @ Wake Forest: 10-46,-1,2.91,321,1
-Central Michigan @ Syracuse: 17-41,0,2.55,197,1
-North Carolina @ Old Dominion: 53-23,2,-1.86,-195,0
-Notre Dame @ Boston College: 49-20,1,-3.13,-211,0
-Virginia @ Boise State: 42-23,1,-1.4,-57,0
-Boston College @ Clemson: 7-34,0,2.13,244,1
-NC State @ Florida State: 27-21,1,0.66,17,0
-Old Dominion @ Virginia Tech: 0-38,0,3.56,433,1
-Toledo @ Miami: 30-52,0,4.42,158,1
-Kent State @ Louisville: 3-42,1,6.91,389,1
-Syracuse @ LSU: 26-35,0,2.1,30,1
-Pittsburgh @ Georgia Tech: 17-35,3,2.27,249,1
-Wake Forest @ Appalachian State: 20-19,0,0.54,150,0
-Duke @ North Carolina: 27-17,1,0.89,-11,0
-Miami @ Duke: 31-6,1,-2.74,-60,0
-Clemson @ Virginia Tech: 31-17,3,-0.5,10,0
-Murray State @ Louisville: 10-55,1,5.57,596,1
-Rice @ Pittsburgh: 10-42,-2,2.11,202,1
-North Carolina @ Georgia Tech: 7-33,0,1.74,209,1
-Syracuse @ NC State: 25-33,-1,0.01,18,1
-Central Michigan @ Boston College: 8-28,-1,0.28,13,1
-Florida State @ Wake Forest: 26-19,1,1.1,97,0
-Louisville @ NC State: 25-39,0,1.22,50,1
-Wake Forest @ Clemson: 14-28,2,-0.08,117,1
-Miami @ Florida State: 24-20,1,1.1,69,0
-Virginia Tech @ Boston College: 23-10,-1,-0.11,-87,0
-Notre Dame @ North Carolina: 33-10,1,-1.75,-222,0
-Duke @ Virginia: 21-28,0,0.38,55,1
-Pittsburgh @ Syracuse: 24-27,0,-0.57,142,1
-Clemson @ Syracuse: 24-27,1,-0.26,123,1
-Georgia Tech @ Miami: 24-25,-1,1.89,200,1
-NC State @ Pittsburgh: 35-17,2,-2.85,-120,0
-Florida State @ Duke: 17-10,-1,-1.89,-110,0
-Boston College @ Louisville: 45-42,1,1.95,70,0
-Virginia @ North Carolina: 20-14,2,-0.34,-148,0
-Syracuse @ Miami: 19-27,-3,2.11,81,1
-North Carolina @ Virginia Tech: 7-59,-3,2.56,211,1
-Louisville @ Florida State: 31-28,2,-0.8,-46,0
-Pittsburgh @ Duke: 24-17,2,-0.48,-126,0
-Boston College @ Virginia: 41-10,3,-3.58,-265,0
-Wake Forest @ Georgia Tech: 24-38,-1,0.49,133,1
-Florida State @ Boston College: 3-35,-3,0.53,116,1
-Georgia Tech @ Clemson: 10-24,0,1.38,198,1
-Miami @ North Carolina: 24-19,2,-1.03,13,0
-NC State @ Notre Dame: 14-35,-1,1.47,159,1
-Duke @ Virginia Tech: 3-24,-2,1.99,204,1
-Louisville @ Wake Forest: 32-42,0,2.62,102,1
-Virginia @ Pittsburgh: 14-31,0,1.04,-4,1
-Wake Forest @ Notre Dame: 37-48,-1,1.78,123,1
-Clemson @ NC State: 38-31,1,0.16,76,0
-Virginia Tech @ Miami: 10-28,-1,3.41,130,1
-Syracuse @ Florida State: 24-27,0,1.25,-120,1
-Georgia Tech @ Virginia: 36-40,0,-0.14,-42,1
-North Carolina @ Pittsburgh: 34-31,1,0.85,41,0
-Louisville vs Purdue: 35-28,1,-2.22,-180,0
-Notre Dame @ Miami: 8-41,-4,1.52,113,1
-Florida State @ Clemson: 14-31,0,0.52,149,1
-Virginia Tech @ Georgia Tech: 22-28,1,2.01,143,1
-NC State @ Boston College: 17-14,0,-0.46,-20,0
-Duke @ Army: 16-21,-1,0.6,15,1
-Wake Forest @ Syracuse: 64-43,1,-1.97,-113,0
-Virginia @ Louisville: 21-38,0,2.82,216,1
-The Citadel @ Clemson: 3-61,-2,6.4,446,1
-Virginia @ Miami: 28-44,-1,-0.79,-81,1
-NC State @ Wake Forest: 24-30,-2,0.62,-168,1
-Delaware State @ Florida State: 6-77,-2,5.24,290,1
-Pittsburgh @ Virginia Tech: 14-20,-1,-0.94,9,1
-Western Carolina @ North Carolina: 10-65,-2,4.03,307,1
-Syracuse @ Louisville: 10-56,-4,5.86,392,1
-Georgia Tech @ Duke: 20-43,-1,0.44,141,1
-Boston College vs Connecticut: 39-16,2,-0.45,27,0
-Miami @ Pittsburgh: 14-24,1,0.73,113,1
-Virginia Tech @ Virginia: 10-0,0,-1.13,-154,0
-Clemson @ South Carolina: 34-10,0,-1.82,-262,0
-Georgia @ Georgia Tech: 38-7,1,-3.74,-245,0
-Florida State @ Florida: 38-22,3,-0.09,64,0
-Louisville @ Kentucky: 44-17,0,-3.33,-224,0
-Boston College @ Syracuse: 42-14,2,-0.92,-164,0
-Duke @ Wake Forest: 31-23,0,-0.11,-107,0
-North Carolina @ NC State: 21-33,-1,1.4,136,1
-Miami vs Clemson: 3-38,-2,0.79,117,1
-Louisiana Monroe @ Florida State: 10-42,2,3.06,204,1
-Bethune-Cookman @ Miami: 13-41,-2,3.47,205,1
-Tulsa @ Oklahoma State: 24-59,0,5.75,208,1
-UTEP @ Oklahoma: 7-56,-1,5.66,509,1
-Central Arkansas @ Kansas State: 19-55,-3,6.36,98,1
-Maryland @ Texas: 51-41,1,-2.68,-9,0
-Eastern Washington @ Texas Tech: 10-56,-3,4.17,325,1
-Liberty @ Baylor: 48-45,2,2.63,-53,0
-Southeast Missouri State @ Kansas: 16-38,2,3.76,184,1
-Jackson State @ TCU: 0-63,-1,7.05,477,1
-Northern Iowa @ Iowa State: 24-42,-2,-0.6,27,1
-Oklahoma State @ South Alabama: 44-7,2,-3.04,-330,0
-Oklahoma @ Ohio State: 31-16,-1,-1.73,-140,0
-Charlotte @ Kansas State: 7-55,-3,3.49,325,1
-TCU @ Arkansas: 28-7,-1,-0.0,-94,0
-Tulane @ Oklahoma: 14-56,0,6.24,340,1
-Texas @ USC: 24-27,-2,0.44,102,1
-Kansas State @ Vanderbilt: 7-14,-1,0.51,-7,1
-SMU @ TCU: 36-56,1,1.03,156,1
-Kansas @ Ohio: 30-42,0,1.32,-1,1
-Delaware State @ West Virginia: 16-59,0,2.78,237,1
-Iowa State @ Akron: 41-14,3,-2.39,-177,0
-Arizona State @ Texas Tech: 45-52,0,1.97,121,1
-Oklahoma @ Baylor: 49-41,0,-4.44,-102,0
-TCU @ Oklahoma State: 44-31,3,1.35,33,0
-Texas Tech @ Houston: 27-24,4,-1.53,-94,0
-West Virginia @ Kansas: 56-34,2,-1.03,-71,0
-Texas @ Iowa State: 17-7,1,0.0,-56,0
-Oklahoma State @ Texas Tech: 41-34,0,-1.95,-213,0
-Baylor @ Kansas State: 20-33,-1,0.45,-31,1
-Iowa State @ Oklahoma: 38-31,1,-0.18,64,0
-East Carolina @ West Virginia: 20-56,-2,1.63,144,1
-Iowa @ Iowa State: 44-41,1,0.43,-30,0
-West Virginia @ TCU: 24-31,-2,0.2,-102,1
-San JosÃ© State @ Texas: 0-56,-2,3.79,452,1
-Central Michigan @ Kansas: 45-27,1,-3.3,-120,0
-Texas Tech @ Kansas: 65-19,2,-2.79,-235,0
-UT San Antonio @ Baylor: 17-10,0,-1.05,-101,0
-Kansas @ TCU: 0-43,0,6.36,454,1
-Oklahoma @ Kansas State: 42-35,0,-0.48,-207,0
-Oklahoma State @ Texas: 13-10,0,-0.71,-145,0
-West Virginia @ Baylor: 38-36,0,-1.41,4,0
-Iowa State @ Texas Tech: 31-13,2,-1.78,-64,0
-TCU @ Iowa State: 7-14,-2,-1.45,-52,1
-Kansas State @ Texas: 34-40,0,-0.35,152,1
-Texas Tech @ Oklahoma: 27-49,0,1.37,180,1
-TCU @ Kansas State: 26-6,0,-1.75,-179,0
-Oklahoma vs Texas: 29-24,-1,-2.51,-90,0
-Oklahoma State @ West Virginia: 50-39,1,-0.31,-115,0
-Baylor @ Oklahoma State: 16-59,-1,5.8,360,1
-Texas @ Baylor: 38-7,2,-2.69,-178,0
-Texas Tech @ West Virginia: 35-46,0,-1.47,-117,1
-Kansas @ Iowa State: 0-45,-2,2.56,212,1
-Kansas State @ Kansas: 30-20,1,0.27,142,0
-Oklahoma @ Kansas: 41-3,2,-4.06,-314,0
-Oklahoma @ Oklahoma State: 62-52,1,-2.82,-124,0
-Texas @ TCU: 7-24,0,0.94,80,1
-Iowa State @ West Virginia: 16-20,0,2.21,174,1
-Kansas State @ Texas Tech: 42-35,0,-0.1,119,0
-Baylor @ Kansas: 38-9,2,-2.41,-166,0
-TCU @ Oklahoma: 20-38,0,0.89,109,1
-Texas Tech vs Baylor: 38-24,3,-0.03,186,0
-West Virginia @ Kansas State: 28-23,-2,-1.95,-160,0
-TCU @ Texas Tech: 27-3,1,-0.65,38,0
-Kansas @ Texas: 27-42,-2,0.35,7,1
-Kansas State @ Oklahoma State: 45-40,1,-0.72,89,0
-Texas @ West Virginia: 28-14,1,-1.4,-125,0
-Iowa State @ Baylor: 23-13,2,-1.32,-63,0
-Baylor @ TCU: 22-45,-3,-0.17,44,1
-Texas Tech @ Texas: 27-23,2,-0.38,-7,0
-West Virginia @ Oklahoma: 31-59,-2,6.42,258,1
-Kansas @ Oklahoma State: 17-58,-1,3.8,420,1
-Iowa State @ Kansas State: 19-20,0,-0.67,-115,1
-TCU vs Oklahoma: 17-41,-2,1.79,144,1
-Oklahoma State @ Iowa State: 49-42,1,-1.22,-31,0
-Ohio State @ Indiana: 49-21,3,-2.33,-159,0
-Buffalo @ Minnesota: 7-17,0,0.82,146,1
-Washington @ Rutgers: 30-14,2,-2.8,-59,0
-Utah State @ Wisconsin: 10-59,-2,2.56,174,1
-Akron @ Penn State: 0-52,0,6.23,410,1
-Michigan vs Florida: 33-17,1,-2.15,-241,0
-Ohio @ Purdue: 21-44,-2,2.3,162,1
-Cincinnati @ Michigan: 14-36,0,3.42,214,1
-Florida Atlantic @ Wisconsin: 14-31,2,2.12,316,1
-Towson @ Maryland: 17-63,-2,5.6,225,1
-Ball State @ Illinois: 21-24,-1,-0.0,-159,1
-Wyoming @ Iowa: 3-24,2,1.37,30,1
-Bowling Green @ Michigan State: 10-35,2,1.82,253,1
-Nevada @ Northwestern: 20-31,0,0.36,167,1
-Western Michigan @ Michigan State: 14-28,1,3.43,262,1
-Arkansas State @ Nebraska: 36-43,-2,1.03,-34,1
-Eastern Michigan @ Rutgers: 16-13,1,-0.4,-48,0
-Minnesota @ Oregon State: 48-14,2,-2.14,-186,0
-Nebraska @ Oregon: 35-42,-2,2.19,205,1
-Western Kentucky @ Illinois: 7-20,-1,-0.14,56,1
-Bowling Green @ Northwestern: 7-49,1,4.41,326,1
-Penn State @ Iowa: 21-19,-1,0.22,-306,0
-Michigan @ Purdue: 28-10,-1,-1.86,-234,0
-UNLV @ Ohio State: 21-54,1,3.58,400,1
-UCF @ Maryland: 38-10,2,-3.17,-231,0
-Rutgers @ Nebraska: 17-27,0,0.53,112,1
-Georgia Southern @ Indiana: 17-52,-3,1.41,92,1
-Notre Dame @ Michigan State: 38-18,3,-0.08,141,0
-Nebraska @ Illinois: 28-6,0,-2.87,-212,0
-Indiana @ Penn State: 14-45,-3,0.54,18,1
-Northwestern @ Wisconsin: 24-33,1,2.28,62,1
-Ohio State @ Rutgers: 56-0,2,-6.16,-419,0
-Maryland @ Minnesota: 31-24,2,-0.13,-107,0
-Iowa @ Michigan State: 10-17,-2,0.36,69,1
-Penn State @ Northwestern: 31-7,3,-1.19,-116,0
-Michigan State @ Michigan: 14-10,5,-0.01,48,0
-Wisconsin @ Nebraska: 38-17,1,-0.81,-85,0
-Maryland @ Ohio State: 14-62,0,5.59,518,1
-Illinois @ Iowa: 16-45,-2,0.18,-5,1
-Minnesota @ Purdue: 17-31,2,2.2,111,1
-Charleston Southern @ Indiana: 0-27,3,3.08,344,1
-Illinois @ South Florida: 23-47,-2,0.5,326,1
-Purdue @ Wisconsin: 9-17,2,2.94,273,1
-Georgia State @ Penn State: 0-56,-5,5.97,206,1
-Air Force @ Michigan: 13-29,0,1.52,127,1
-Army @ Ohio State: 7-38,-1,4.28,308,1
-Wisconsin @ BYU: 40-6,2,-3.05,-299,0
-Northern Illinois @ Nebraska: 21-17,2,0.68,171,0
-Ohio State @ Nebraska: 56-14,1,-1.12,-240,0
-Michigan @ Indiana: 27-20,2,-1.28,-51,0
-Morgan State @ Rutgers: 0-65,-3,4.13,333,1
-Middle Tennessee @ Minnesota: 3-34,-2,1.24,113,1
-North Texas @ Iowa: 14-31,0,-1.57,130,1
-Purdue @ Missouri: 35-3,2,-1.77,-274,0
-Michigan State @ Minnesota: 30-27,-1,-0.45,-75,0
-Northwestern @ Maryland: 37-21,2,0.78,191,0
-Rutgers @ Illinois: 35-24,0,-0.49,18,0
-Michigan @ Penn State: 13-42,0,4.45,237,1
-Maryland @ Wisconsin: 13-38,0,2.65,172,1
-Illinois @ Minnesota: 17-24,1,0.34,55,1
-Indiana @ Michigan State: 9-17,1,0.05,22,1
-Penn State @ Ohio State: 38-39,2,2.36,246,1
-Iowa @ Northwestern: 10-17,-1,-0.59,27,1
-Purdue @ Rutgers: 12-14,-2,-1.63,-257,1
-Indiana @ Maryland: 39-42,0,1.18,-138,1
-Wisconsin @ Illinois: 24-10,2,-0.27,-17,0
-Minnesota @ Iowa: 10-17,1,1.35,34,1
-Michigan State @ Northwestern: 31-39,-1,-0.67,-108,1
-Nebraska @ Purdue: 25-24,0,-0.62,-108,0
-Rutgers @ Michigan: 14-35,1,2.48,276,1
-Ohio State @ Iowa: 24-55,-4,1.16,116,1
-Penn State @ Michigan State: 24-27,-2,-0.83,8,1
-Wisconsin @ Indiana: 45-17,2,-0.66,-141,0
-Minnesota @ Michigan: 10-33,-1,5.61,263,1
-Illinois @ Purdue: 10-29,0,2.01,185,1
-Maryland @ Rutgers: 24-31,1,-0.17,-39,1
-Rutgers @ Penn State: 6-35,-1,2.46,104,1
-Northwestern @ Nebraska: 31-24,1,-1.05,-138,0
-Purdue @ Northwestern: 13-23,-1,-0.63,-48,1
-Michigan @ Wisconsin: 10-24,0,1.79,91,1
-Indiana @ Illinois: 24-14,2,0.49,-134,0
-Michigan @ Maryland: 35-10,2,-0.59,35,0
-Nebraska @ Minnesota: 21-54,0,2.92,134,1
-Iowa @ Nebraska: 56-14,3,-3.3,-238,0
-Wisconsin @ Minnesota: 31-0,-1,-4.83,-323,0
-Ohio State @ Michigan: 31-20,1,-1.22,-55,0
-Penn State @ Maryland: 66-3,2,-1.18,-231,0
-Michigan State @ Rutgers: 40-7,3,-1.23,-319,0
-Northwestern @ Illinois: 42-7,2,-2.82,-207,0
-Indiana @ Purdue: 24-31,0,0.8,-44,1
-Ohio State vs Wisconsin: 27-21,-1,-2.52,-151,0
-Illinois @ Ohio State: 14-52,0,3.67,438,1
-Nebraska @ Penn State: 44-56,1,1.27,143,1
-Maryland @ Michigan State: 7-17,0,0.83,87,1
-Minnesota @ Northwestern: 0-39,-5,1.62,181,1
-Rutgers @ Indiana: 0-41,-1,3.29,313,1
-Purdue @ Iowa: 24-15,2,-0.82,-36,0
-Iowa @ Wisconsin: 14-38,1,4.38,316,1
-Michigan State @ Ohio State: 3-48,-1,5.28,329,1
-Florida A&M vs Arkansas: 7-49,0,3.28,240,1
-Georgia Southern @ Auburn: 7-41,2,5.38,457,1
-BYU vs LSU: 0-27,-1,3.83,382,1
-Appalachian State @ Georgia: 10-31,2,1.31,84,1
-Missouri State @ Missouri: 43-72,0,4.22,323,1
-Kentucky @ Southern Mississippi: 24-17,2,0.05,110,0
-Charleston Southern @ Mississippi State: 0-49,0,5.75,522,1
-South Alabama @ Ole Miss: 27-47,1,2.8,157,1
-Vanderbilt @ Middle Tennessee: 28-6,1,-2.05,-152,0
-Texas A&M @ UCLA: 44-45,3,1.53,83,1
-Fresno State @ Alabama: 10-41,-1,3.2,224,1
-Chattanooga @ LSU: 10-45,-2,2.99,212,1
-Georgia @ Notre Dame: 20-19,0,-1.03,-60,0
-Indiana State @ Tennessee: 7-42,2,2.12,180,1
-Colorado State @ Alabama: 23-41,-2,3.1,96,1
-LSU @ Mississippi State: 7-37,0,1.89,195,1
-Eastern Kentucky @ Kentucky: 16-27,-2,1.87,118,1
-UT Martin @ Ole Miss: 23-45,0,3.43,209,1
-Samford @ Georgia: 14-42,0,2.36,210,1
-Mercer @ Auburn: 10-24,5,2.7,264,1
-Alabama A&M @ Vanderbilt: 0-42,-2,4.63,298,1
-Tennessee @ Florida: 20-26,0,0.53,-62,1
-South Carolina @ Missouri: 31-13,3,0.85,64,0
-Louisiana @ Texas A&M: 21-45,-3,2.25,171,1
-Nicholls @ Texas A&M: 14-24,-2,-1.3,55,1
-Mississippi State @ Louisiana Tech: 57-21,2,-3.71,-144,0
-Kentucky @ South Carolina: 23-13,0,1.45,5,0
-Louisiana Tech @ South Carolina: 16-17,1,0.62,77,1
-Ole Miss @ Alabama: 3-66,-2,3.57,360,1
-Georgia @ Tennessee: 41-0,3,-2.52,-236,0
-Mississippi State @ Auburn: 10-49,0,4.95,160,1
-Vanderbilt @ Florida: 24-38,0,0.9,157,1
-Troy @ LSU: 24-21,2,1.83,65,0
-New Mexico State @ Arkansas: 24-42,-1,-0.41,139,1
-Eastern Michigan @ Kentucky: 20-24,-2,-0.65,-84,1
-South Carolina @ Texas A&M: 17-24,0,0.23,117,1
-Alabama @ Texas A&M: 27-19,2,-0.92,-47,0
-Georgia @ Vanderbilt: 45-14,-1,-3.62,-313,0
-Ole Miss @ Auburn: 23-44,0,2.5,132,1
-LSU @ Florida: 17-16,0,0.26,-39,0
-Arkansas @ South Carolina: 22-48,-4,0.56,28,1
-Missouri @ Kentucky: 34-40,-1,-1.08,-82,1
-Arkansas @ Alabama: 9-41,1,4.6,269,1
-Missouri @ Georgia: 28-53,0,2.67,384,1
-Auburn @ LSU: 23-27,1,0.61,9,1
-BYU @ Mississippi State: 10-35,1,2.67,370,1
-South Carolina @ Tennessee: 15-9,0,-0.68,-70,0
-Vanderbilt @ Ole Miss: 35-57,-2,2.3,186,1
-Texas A&M @ Florida: 19-17,1,1.21,108,0
-Tennessee @ Alabama: 7-45,1,4.68,496,1
-Auburn @ Arkansas: 52-20,1,-3.26,-295,0
-LSU @ Ole Miss: 40-24,3,-3.12,-246,0
-Idaho @ Missouri: 21-68,0,6.52,380,1
-Ole Miss @ California: 16-27,-1,-1.16,-17,1
-Alabama @ Vanderbilt: 59-0,2,-5.23,-599,0
-Kentucky @ Mississippi State: 7-45,-2,1.47,181,1
-Mississippi State @ Georgia: 3-31,-1,3.48,124,1
-Auburn @ Missouri: 51-14,4,-1.66,-142,0
-Florida @ Kentucky: 28-27,-1,-0.51,-55,0
-Georgia vs Florida: 42-7,1,-5.58,-144,0
-Texas A&M vs Arkansas: 50-43,0,-0.91,-44,0
-UMass @ Tennessee: 13-17,1,-0.27,38,1
-Vanderbilt @ South Carolina: 27-34,-1,-0.26,-54,1
-Missouri @ Connecticut: 52-12,0,-3.76,-229,0
-Mississippi State @ Texas A&M: 35-14,2,-0.92,-84,0
-Tennessee @ Kentucky: 26-29,4,1.43,-74,1
-Arkansas @ Ole Miss: 38-37,1,4.18,117,0
-South Carolina @ Georgia: 10-24,-1,0.75,168,1
-LSU @ Alabama: 10-24,-1,0.79,-7,1
-Southern Mississippi @ Tennessee: 10-24,-2,-0.16,-69,1
-Auburn @ Texas A&M: 42-27,0,-1.16,-153,0
-UMass @ Mississippi State: 23-34,2,-0.3,43,1
-Florida @ Missouri: 16-45,-1,0.97,106,1
-Georgia @ Auburn: 17-40,-1,3.1,258,1
-Western Kentucky @ Vanderbilt: 17-31,0,2.83,45,1
-Ole Miss @ Kentucky: 37-34,0,-0.56,-18,0
-Coastal Carolina @ Arkansas: 38-39,1,3.28,164,1
-Louisiana @ Ole Miss: 22-50,1,1.64,214,1
-Florida @ South Carolina: 20-28,1,1.24,168,1
-Mercer @ Alabama: 0-56,-1,6.19,369,1
-Kentucky @ Vanderbilt: 44-21,3,-0.83,-59,0
-Louisiana Monroe @ Auburn: 14-42,-1,3.38,222,1
-New Mexico @ Texas A&M: 14-55,-1,6.07,418,1
-Tennessee @ Missouri: 17-50,-3,3.75,374,1
-Kentucky @ Georgia: 13-42,0,4.32,242,1
-Mississippi State @ Arkansas: 28-21,-1,-0.65,-127,0
-Texas A&M @ Ole Miss: 31-24,1,0.21,0,0
-LSU @ Tennessee: 30-10,2,0.02,6,0
-Missouri @ Vanderbilt: 45-17,3,-1.79,-27,0
-Ole Miss @ Mississippi State: 31-28,3,-1.24,146,0
-Wofford @ South Carolina: 10-31,-3,1.35,162,1
-UAB @ Florida: 7-36,-4,0.38,229,1
-Vanderbilt @ Tennessee: 42-24,1,-1.61,-291,0
-Georgia vs Auburn: 28-7,2,-2.57,-162,0
-Missouri @ Arkansas: 48-45,-1,0.49,-250,0
-Alabama @ Auburn: 14-26,0,0.08,94,1
-Texas A&M @ LSU: 21-45,-3,1.96,319,1
-Arkansas @ LSU: 10-33,-1,2.8,97,1
-Stanford vs Rice: 62-7,-2,5.1,415,0
-Oregon State @ Colorado State: 27-58,-3,0.4,69,1
-North Dakota @ Utah: 16-37,0,2.21,257,1
-Montana State @ Washington State: 0-31,0,3.75,368,1
-Portland State @ Oregon State: 32-35,-1,0.54,-126,1
-Southern Utah @ Oregon: 21-77,0,4.65,338,1
-New Mexico State @ Arizona State: 31-37,-2,-0.52,-149,1
-Colorado State vs Colorado: 3-17,-1,0.19,-52,1
-Western Michigan @ USC: 31-49,1,2.75,164,1
-Stanford @ USC: 24-42,2,2.09,281,1
-Montana @ Washington: 7-63,-3,5.24,343,1
-Boise State @ Washington State: 44-47,-1,-0.73,54,1
-Texas State @ Colorado: 3-37,-2,1.23,147,1
-Hawai'i @ UCLA: 23-56,-1,2.82,-10,1
-Weber State @ California: 20-33,-2,0.07,-140,1
-Utah @ BYU: 19-13,1,-2.19,-197,0
-Houston @ Arizona: 19-16,0,-0.67,-12,0
-San Diego State @ Arizona State: 30-20,1,-0.43,-10,0
-Arizona @ UTEP: 63-16,1,-1.58,-283,0
-Fresno State @ Washington: 16-48,1,2.57,107,1
-Stanford @ San Diego State: 17-20,-3,-1.38,99,1
-Oregon State @ Washington State: 23-52,-2,1.58,137,1
-UCLA @ Memphis: 45-48,0,0.41,-73,1
-Northern Colorado @ Colorado: 21-41,1,3.1,296,1
-Oregon @ Wyoming: 49-13,-1,-2.66,-375,0
-San JosÃ© State @ Utah: 16-54,-2,2.31,238,1
-Utah @ Arizona: 30-24,3,0.17,107,0
-USC @ California: 30-20,4,0.21,60,0
-Washington @ Colorado: 37-10,2,-2.64,-103,0
-Nevada @ Washington State: 7-45,-1,3.87,409,1
-Northern Arizona @ Arizona: 24-62,-3,3.65,33,1
-Oregon @ Arizona State: 35-37,0,-0.85,88,1
-Washington @ Oregon State: 42-7,1,-3.11,-325,0
-UCLA @ Stanford: 34-58,-3,0.08,-42,1
-USC @ Washington State: 27-30,-1,0.07,135,1
-Arizona State @ Stanford: 24-34,-1,3.08,95,1
-California @ Oregon: 24-45,-1,2.23,196,1
-California @ Washington: 7-38,0,2.92,284,1
-Washington State @ Oregon: 33-10,1,-1.66,-92,0
-Oregon State @ USC: 10-38,0,2.11,193,1
-Colorado @ UCLA: 23-27,1,0.13,33,1
-Stanford @ Utah: 23-20,2,-1.75,-2,0
-Arizona @ Colorado: 45-42,-1,-4.0,-16,0
-Colorado @ Oregon State: 36-33,1,1.02,184,0
-Washington State @ California: 3-37,-7,0.66,28,1
-UCLA @ Arizona: 30-47,-4,2.5,196,1
-Washington @ Arizona State: 7-13,0,0.13,55,1
-Utah @ USC: 27-28,2,0.09,96,1
-USC @ Notre Dame: 14-49,-3,2.19,161,1
-Colorado @ Washington State: 0-28,1,2.85,232,1
-Oregon @ Stanford: 7-49,-1,1.79,195,1
-California @ Colorado: 28-44,0,1.34,118,1
-Arizona State @ Utah: 30-10,3,-0.18,-80,0
-Oregon @ UCLA: 14-31,-2,1.43,88,1
-Arizona @ California: 45-44,1,-3.45,-38,0
-Utah @ Oregon: 20-41,0,1.45,32,1
-Stanford @ Oregon State: 15-14,2,0.49,42,0
-UCLA @ Washington: 23-44,1,2.51,210,1
-Washington State @ Arizona: 37-58,-1,5.01,-68,1
-Oregon State @ California: 23-37,1,1.0,176,1
-USC @ Arizona State: 48-17,0,-1.64,-250,0
-UCLA @ Utah: 17-48,-1,1.84,257,1
-Oregon @ Washington: 3-38,-1,3.69,173,1
-Colorado @ Arizona State: 30-41,-1,0.95,129,1
-Arizona @ Arizona State: 30-42,1,-0.19,-49,1
-Arizona @ USC: 35-49,-2,3.1,262,1
-Stanford @ Washington State: 21-24,0,1.37,232,1
-Washington @ Stanford: 22-30,-1,-0.09,81,1
-Washington State @ Utah: 33-25,5,0.9,29,0
-USC @ Colorado: 38-24,2,-1.39,-36,0
-UCLA @ USC: 23-28,-1,0.01,-84,1
-Utah @ Washington: 30-33,-1,1.42,67,1
-California @ Stanford: 14-17,0,-0.01,41,1
-Arizona State @ Oregon State: 40-24,2,-1.3,-78,0
-Arizona @ Oregon: 28-48,-1,4.16,258,1
-California @ UCLA: 27-30,0,0.81,4,1
-Notre Dame @ Stanford: 20-38,-3,-0.22,-87,1
-Washington State @ Washington: 14-41,-4,1.79,76,1
-Oregon State @ Oregon: 10-69,-3,4.12,366,1
-Colorado @ Utah: 13-34,-1,1.4,172,1
-Stanford vs USC: 28-31,1,1.76,158,1
-Arizona State @ UCLA: 37-44,0,1.39,-11,1
-Oregon State @ Arizona: 28-49,0,4.42,242,1
-Florida International @ UCF: 17-61,-2,1.65,252,1
-Charlotte @ Eastern Michigan: 7-24,-1,1.08,113,1
-Navy @ Florida Atlantic: 42-19,0,-1.02,-200,0
-Alabama A&M @ UAB: 7-38,0,2.2,234,1
-Albany @ Old Dominion: 17-31,2,1.18,10,1
-Miami (OH) @ Marshall: 26-31,0,-0.13,-162,1
-Lamar @ North Texas: 14-59,-1,4.36,402,1
-Eastern Kentucky @ Western Kentucky: 17-31,1,0.2,19,1
-Northwestern State @ Louisiana Tech: 24-52,0,1.57,108,1
-Alcorn State vs Florida International: 10-17,1,1.81,196,1
-UAB @ Ball State: 31-51,-2,-2.13,-127,1
-Old Dominion @ UMass: 17-7,0,-0.21,-34,0
-Southern @ Southern Mississippi: 0-45,-1,3.58,337,1
-North Texas @ SMU: 32-54,-2,-0.09,0,1
-Coastal Carolina @ UAB: 23-30,-2,-0.12,-53,1
-Bethune-Cookman @ Florida Atlantic: 0-45,0,4.75,502,1
-Kent State @ Marshall: 0-21,0,0.77,122,1
-Southern Mississippi @ Louisiana Monroe: 28-17,0,-1.52,-204,0
-Southern @ UT San Antonio: 17-51,1,4.75,353,1
-Louisiana Tech @ Western Kentucky: 23-22,-1,-1.37,-61,0
-Rice @ Houston: 3-38,-3,2.42,242,1
-Georgia State @ Charlotte: 28-0,3,-0.46,-96,0
-UAB @ North Texas: 43-46,0,2.02,153,1
-Ball State @ Western Kentucky: 21-33,-1,-0.57,-3,1
-Florida Atlantic @ Buffalo: 31-34,-1,-0.79,46,1
-Bowling Green @ Middle Tennessee: 13-24,3,2.67,249,1
-Florida International @ Rice: 13-7,0,-0.8,-23,0
-UT San Antonio @ Texas State: 44-14,0,-4.77,-371,0
-UTEP @ New Mexico State: 14-41,-3,3.17,235,1
-UTEP @ Army: 21-35,1,2.83,171,1
-Charlotte @ Florida International: 29-30,1,0.44,-29,1
-Middle Tennessee @ Florida Atlantic: 20-38,-3,-0.42,-15,1
-South Alabama @ Louisiana Tech: 16-34,-1,1.68,146,1
-Marshall @ Cincinnati: 38-21,2,0.22,-17,0
-North Texas @ Southern Mississippi: 43-28,-2,-0.36,-125,0
-North Carolina A&T @ Charlotte: 35-31,2,-0.55,16,0
-Florida International @ Middle Tennessee: 17-37,-2,2.18,120,1
-Louisiana Tech @ UAB: 22-23,0,-0.38,3,1
-Marshall @ Charlotte: 14-3,-1,-1.69,-192,0
-Florida Atlantic @ Old Dominion: 58-28,2,-0.56,-139,0
-Army @ Rice: 49-12,5,-0.31,-81,0
-Southern Mississippi @ UT San Antonio: 31-29,-1,-2.81,11,0
-Western Kentucky @ UTEP: 15-14,0,0.92,5,0
-Charlotte @ Western Kentucky: 14-45,0,0.99,318,1
-Old Dominion @ Marshall: 3-35,-2,2.76,174,1
-Middle Tennessee @ UAB: 23-25,-1,0.6,40,1
-UT San Antonio @ North Texas: 26-29,1,0.69,52,1
-UTEP @ Southern Mississippi: 0-24,0,2.94,276,1
-Tulane @ Florida International: 10-23,0,1.57,199,1
-Western Kentucky @ Old Dominion: 35-31,2,0.02,32,0
-Marshall @ Middle Tennessee: 38-10,2,-1.04,-93,0
-North Texas @ Florida Atlantic: 31-69,-3,4.44,384,1
-Florida International @ Marshall: 41-30,3,0.16,104,0
-Louisiana Tech @ Rice: 42-28,4,1.02,17,0
-Florida Atlantic @ Western Kentucky: 42-28,3,-0.55,9,0
-Old Dominion @ North Texas: 38-45,-1,1.38,74,1
-UAB @ Southern Mississippi: 30-12,1,0.08,-70,0
-UT San Antonio @ UTEP: 31-14,0,-1.04,-150,0
-Marshall @ Florida Atlantic: 25-30,-4,0.84,-28,1
-Rice @ UAB: 21-52,-3,-0.15,-24,1
-Charlotte @ Old Dominion: 0-6,-1,-0.59,95,1
-North Texas @ Louisiana Tech: 24-23,-1,-0.76,-100,0
-UT San Antonio @ Florida International: 7-14,1,0.97,60,1
-UTEP @ Middle Tennessee: 3-30,1,3.57,263,1
-UAB @ Charlotte: 24-25,0,-0.67,32,1
-Southern Mississippi @ Louisiana Tech: 34-27,-1,0.72,-136,0
-Rice @ UT San Antonio: 7-20,-2,1.77,148,1
-North Texas @ Rice: 30-14,0,-0.69,-101,0
-Rice @ UTEP: 31-14,0,-2.5,-208,0
-Middle Tennessee @ Charlotte: 35-21,1,-0.61,-101,0
-Florida Atlantic @ Louisiana Tech: 48-23,-1,-2.97,97,0
-Southern Mississippi @ Rice: 43-34,0,-1.85,-136,0
-UAB @ UT San Antonio: 24-19,1,0.08,34,0
-Old Dominion @ Florida International: 37-30,2,-1.59,48,0
-Western Kentucky @ Marshall: 23-30,-1,-1.7,-34,1
-Middle Tennessee @ Western Kentucky: 38-41,1,0.73,107,1
-Rice @ Old Dominion: 21-24,-2,-0.04,29,1
-Charlotte @ Southern Mississippi: 21-66,-2,4.69,346,1
-Louisiana Tech @ UTEP: 42-21,1,-0.37,-136,0
-Army @ North Texas: 49-52,0,-0.93,-72,1
-UTEP @ UAB: 7-28,-2,0.61,126,1
-Florida Atlantic @ Charlotte: 31-12,-2,-1.72,-308,0
-Southern Mississippi @ Marshall: 28-27,2,0.82,11,0
-Old Dominion @ Middle Tennessee: 10-41,2,2.24,281,1
-UT San Antonio @ Louisiana Tech: 6-20,0,1.77,93,1
-North Texas @ Florida Atlantic: 17-41,-1,3.33,196,1
-UMass @ Florida International: 45-63,-1,1.6,126,1
-UTEP @ North Texas: 10-45,0,2.77,241,1
-Marshall @ UT San Antonio: 7-9,-1,-0.43,126,1
-Florida International @ Florida Atlantic: 24-52,1,3.32,269,1
-Western Kentucky @ Florida International: 17-41,-3,0.91,-28,1
-Elon @ Toledo: 13-47,1,4.13,378,1
-Rhode Island @ Central Michigan: 27-30,-2,-0.72,107,1
-Hampton @ Ohio: 0-59,-1,3.9,312,1
-Tennessee Tech @ Ball State: 13-28,1,2.06,111,1
-Buffalo @ Army: 17-21,-2,-3.42,27,1
-Colgate @ Buffalo: 10-33,0,2.91,263,1
-Austin Peay @ Miami (OH): 10-31,0,-1.03,13,1
-Eastern Illinois @ Northern Illinois: 10-38,0,3.66,312,1
-Howard @ Kent State: 31-38,0,-0.3,-33,1
-South Dakota @ Bowling Green: 35-27,3,-0.36,-48,0
-Idaho @ Western Michigan: 28-37,-2,-1.9,-52,1
-Arkansas-Pine Bluff @ Akron: 3-52,-2,3.78,296,1
-Toledo @ Nevada: 37-24,2,1.43,-40,0
-Tulsa @ Toledo: 51-54,1,4.06,131,1
-Ohio @ Eastern Michigan: 27-20,-1,-0.17,-18,0
-Miami (OH) @ Central Michigan: 31-14,2,-2.2,-49,0
-Akron @ Troy: 17-22,-2,2.05,126,1
-Wagner @ Western Michigan: 14-49,1,6.15,414,1
-Cincinnati @ Miami (OH): 21-17,-1,-0.01,-70,0
-Northern Illinois @ San Diego State: 28-34,-4,-0.33,-154,1
-Miami (OH) @ Notre Dame: 17-52,-2,2.73,126,1
-Ohio @ UMass: 58-50,2,-1.69,71,0
-Eastern Michigan @ Toledo: 15-20,-2,0.34,93,1
-Central Michigan @ Ohio: 26-23,3,0.2,33,0
-Bowling Green @ Miami (OH): 37-29,1,-0.5,107,0
-Ball State @ Akron: 3-31,-3,2.0,7,1
-Kent State @ Northern Illinois: 3-24,-1,1.51,135,1
-Western Michigan @ Buffalo: 71-68,0,0.75,38,0
-Eastern Michigan @ Army: 27-28,-1,-0.61,49,1
-Miami (OH) @ Kent State: 14-17,-2,0.06,-7,1
-Northern Illinois @ Buffalo: 14-13,-1,1.21,-58,0
-Ohio @ Bowling Green: 48-30,2,-2.09,-19,0
-Toledo @ Central Michigan: 30-10,2,-1.26,-155,0
-Akron @ Western Michigan: 14-13,0,1.29,211,0
-Akron @ Toledo: 21-48,-1,3.61,293,1
-Kent State @ Ohio: 3-48,-1,4.45,308,1
-Northern Illinois @ Bowling Green: 48-17,4,-1.01,-210,0
-Western Michigan @ Eastern Michigan: 20-17,1,-0.49,39,0
-Buffalo @ Miami (OH): 14-24,-2,1.43,78,1
-Central Michigan @ Ball State: 56-9,0,-3.92,-247,0
-Eastern Michigan @ Northern Illinois: 27-30,1,-0.01,-11,1
-Toledo @ Ball State: 58-17,-1,-7.85,-293,0
-Buffalo @ Akron: 20-21,0,1.39,-87,1
-Bowling Green @ Kent State: 44-16,4,-1.93,-117,0
-Miami (OH) @ Ohio: 28-45,-2,0.37,-5,1
-Central Michigan @ Western Michigan: 35-28,2,-1.21,-50,0
-Ball State @ Eastern Michigan: 14-56,-1,2.61,162,1
-Buffalo @ Kent State: 27-13,0,0.17,67,0
-Northern Illinois @ Toledo: 17-27,-1,2.3,97,1
-Akron @ Bowling Green: 34-23,1,-0.85,15,0
-Ball State @ Western Michigan: 3-55,-2,3.21,176,1
-Akron @ Miami (OH): 14-24,2,2.35,147,1
-Bowling Green @ Buffalo: 28-38,-1,2.16,188,1
-Kent State @ Western Michigan: 20-48,-3,1.03,108,1
-Toledo @ Ohio: 10-38,1,2.04,216,1
-Eastern Michigan @ Central Michigan: 30-42,-4,1.16,4,1
-Ball State @ Northern Illinois: 17-63,0,2.92,188,1
-Bowling Green @ Eastern Michigan: 31-34,-1,-2.28,-75,1
-Kent State @ Akron: 14-24,-2,-0.61,-55,1
-Miami (OH) @ Ball State: 28-7,3,-0.28,118,0
-Western Michigan @ Toledo: 10-37,-1,2.21,180,1
-Northern Illinois @ Central Michigan: 24-31,-1,1.87,121,1
-Ohio @ Buffalo: 24-31,-2,0.44,-74,1
-Akron vs Toledo: 28-45,3,2.1,165,1
-Central Michigan @ Kent State: 42-23,0,-2.07,44,0
-Ohio @ Akron: 34-37,-3,0.34,48,1
-Eastern Michigan @ Miami (OH): 27-24,0,-0.89,-62,0
-Western Michigan @ Northern Illinois: 31-35,2,0.68,-9,1
-Toledo @ Bowling Green: 66-37,1,-2.62,-246,0
-Buffalo @ Ball State: 40-24,0,-3.33,-228,0
-South Florida @ San JosÃ© State: 42-22,3,-1.08,-161,0
-Hawai'i @ UMass: 38-35,1,-1.38,-90,0
-VMI @ Air Force: 0-62,-1,6.16,568,1
-Troy @ Boise State: 13-24,-1,1.28,142,1
-Cal Poly @ San JosÃ© State: 13-34,-1,2.9,249,1
-Abilene Christian @ New Mexico: 14-38,-1,4.58,199,1
-UC Davis @ San Diego State: 17-38,-1,0.66,198,1
-Howard @ UNLV: 43-40,2,3.26,115,0
-Incarnate Word @ Fresno State: 0-66,-2,5.81,488,1
-Western Carolina @ Hawai'i: 18-41,-1,0.79,-29,1
-Abilene Christian @ Colorado State: 10-38,0,3.07,272,1
-Gardner-Webb @ Wyoming: 0-27,-1,3.24,198,1
-UNLV @ Idaho: 44-16,0,-2.85,-166,0
-New Mexico State @ New Mexico: 30-28,2,-0.29,-70,0
-New Mexico @ Boise State: 14-28,-2,1.04,-13,1
-Idaho State @ Nevada: 30-28,3,-0.49,40,0
-San Diego State @ Air Force: 28-24,0,-2.61,-114,0
-New Mexico @ Tulsa: 16-13,-2,-1.18,-160,0
-Idaho State @ Utah State: 13-51,0,2.97,293,1
-Utah State @ San JosÃ© State: 61-10,2,-3.26,-427,0
-BYU @ Utah State: 24-40,-6,-1.39,-108,1
-Hawai'i @ Wyoming: 21-28,-2,-0.17,-181,1
-Colorado State @ Hawai'i: 51-21,1,-2.81,-98,0
-Texas State @ Wyoming: 10-45,-1,1.97,71,1
-Boise State @ BYU: 24-7,1,-0.51,-62,0
-Air Force @ New Mexico: 38-56,-2,5.29,113,1
-Nevada @ Fresno State: 21-41,0,2.74,190,1
-San JosÃ© State @ UNLV: 13-41,-3,2.42,86,1
-San Diego State @ UNLV: 41-10,-1,-1.97,-191,0
-Fresno State @ San JosÃ© State: 27-10,4,-1.04,-143,0
-Hawai'i @ Nevada: 21-35,-1,0.17,89,1
-Air Force @ Navy: 45-48,-2,-0.55,-64,1
-Colorado State @ Utah State: 27-14,0,-2.77,-297,0
-Wyoming @ Utah State: 28-23,4,0.05,70,0
-New Mexico @ Fresno State: 0-38,-1,4.11,204,1
-Nevada @ Colorado State: 42-44,1,0.84,44,1
-San JosÃ© State @ Hawai'i: 26-37,-1,-1.11,-53,1
-Air Force @ Nevada: 45-42,-2,1.68,-167,0
-Colorado State @ New Mexico: 27-24,1,0.67,39,0
-Utah State @ UNLV: 52-28,1,-2.19,-128,0
-Wyoming @ Boise State: 14-24,-2,1.15,101,1
-Fresno State @ San Diego State: 27-3,1,-2.83,-120,0
-Air Force @ Colorado State: 45-28,2,1.94,-42,0
-Boise State @ San Diego State: 31-14,1,-0.56,12,0
-UNLV @ Air Force: 30-34,2,-0.73,62,1
-San JosÃ© State @ BYU: 20-41,-3,3.54,260,1
-San Diego State @ Hawai'i: 28-7,1,3.03,222,0
-New Mexico @ Wyoming: 3-42,-7,2.32,125,1
-UNLV @ Fresno State: 26-16,1,0.29,-36,0
-Boise State @ Utah State: 41-14,0,-2.17,-254,0
-Army @ Air Force: 21-0,0,-2.73,-208,0
-Utah State @ New Mexico: 24-10,2,-0.76,97,0
-Hawai'i @ UNLV: 23-31,1,0.31,12,1
-Nevada @ Boise State: 14-41,-3,2.37,177,1
-Colorado State @ Wyoming: 13-16,1,0.44,-51,1
-BYU @ UNLV: 31-21,2,0.03,22,0
-San Diego State @ San JosÃ© State: 52-7,2,-3.66,-448,0
-BYU @ Fresno State: 13-20,-1,0.37,-26,1
-UNLV @ New Mexico: 38-35,1,0.51,-52,0
-San JosÃ© State @ Nevada: 14-59,-5,2.2,139,1
-Air Force @ Boise State: 19-44,-3,3.16,132,1
-Wyoming @ Air Force: 28-14,2,0.61,149,0
-Fresno State @ Hawai'i: 31-21,0,-1.57,-129,0
-Boise State @ Colorado State: 59-52,0,-1.63,-71,0
-Nevada @ San Diego State: 23-42,-1,0.82,46,1
-Fresno State @ Wyoming: 13-7,1,0.15,-25,0
-New Mexico @ San Diego State: 10-35,0,4.09,214,1
-Hawai'i @ Utah State: 0-38,0,4.17,157,1
-Boise State @ Fresno State: 17-28,0,0.55,30,1
-San JosÃ© State @ Colorado State: 14-42,0,2.73,267,1
-UNLV @ Nevada: 16-23,1,2.09,87,1
-Wyoming @ San JosÃ© State: 17-20,0,0.04,-37,1
-BYU @ Hawai'i: 30-20,-1,-0.39,-165,0
-Utah State @ Air Force: 35-38,0,-4.15,-81,1
-Fresno State @ Boise State: 14-17,-1,0.72,55,1
-Portland State @ BYU: 6-20,-1,2.83,145,1
-Fordham @ Army: 6-64,0,6.39,207,1
-Temple @ Notre Dame: 16-49,0,3.61,276,1
-UMass @ Coastal Carolina: 28-38,-2,-0.04,-40,1
-UMass @ Temple: 21-29,-1,-1.06,-71,1
-Army @ Tulane: 17-21,-2,1.83,-15,1
-Georgia Southern @ UMass: 20-55,-2,4.37,379,1
-Temple @ Army: 28-31,1,-1.72,-117,1
-BYU @ East Carolina: 17-33,0,0.51,-8,1
-Appalachian State @ UMass: 27-30,1,0.71,32,1
-Navy @ Notre Dame: 17-24,0,2.7,9,1
-UMass @ BYU: 16-10,4,-0.19,0,0
-Maine vs UMass: 31-44,-2,0.64,75,1
-Army vs Navy: 14-13,0,1.35,55,0
-Tennessee State @ Georgia State: 17-10,4,-0.47,-110,0
-Sacramento State @ Idaho: 6-28,3,2.55,170,1
-Louisiana Monroe @ Memphis: 29-37,-2,1.56,-9,1
-Southeastern Louisiana @ Louisiana: 48-51,-2,-0.35,-151,1
-Houston Baptist @ Texas State: 11-20,1,0.72,32,1
-Savannah State @ Appalachian State: 7-54,2,6.77,507,1
-New Hampshire vs Georgia Southern: 22-12,2,-1.04,45,0
-Louisiana @ Tulsa: 42-66,-1,-0.7,71,1
-Alabama State @ Troy: 7-34,1,5.08,446,1
-Arkansas-Pine Bluff @ Arkansas State: 3-48,-5,2.64,213,1
-Alabama A&M @ South Alabama: 0-45,-2,4.76,241,1
-Appalachian State @ Texas State: 20-13,0,0.38,102,0
-Troy @ New Mexico State: 27-24,0,0.06,-94,0
-Idaho @ South Alabama: 29-23,-1,-0.78,-69,0
-Louisiana Monroe @ Louisiana: 56-50,0,-1.66,-67,0
-Western Illinois @ Coastal Carolina: 52-10,4,-3.65,-203,0
-Arkansas State @ SMU: 21-44,-2,0.78,150,1
-Coastal Carolina @ Louisiana Monroe: 43-51,-3,-0.57,-97,1
-Georgia State @ Coastal Carolina: 27-21,-1,1.11,2,0
-South Alabama @ Troy: 19-8,3,0.96,75,0
-Texas State @ Louisiana: 7-24,-3,0.94,42,1
-Appalachian State @ Idaho: 23-20,0,0.56,36,0
-Arkansas State @ Georgia Southern: 43-25,-1,-0.16,112,0
-Georgia State @ Louisiana Monroe: 47-37,1,-2.99,-239,0
-Louisiana Monroe @ Texas State: 45-27,1,-1.52,-203,0
-New Mexico State @ Georgia Southern: 35-27,-2,-1.72,-226,0
-New Mexico State @ Appalachian State: 31-45,-3,1.3,-107,1
-Coastal Carolina @ Arkansas State: 17-51,-1,0.03,47,1
-Louisiana @ Idaho: 21-16,-1,-0.27,-18,0
-Louisiana @ Arkansas State: 3-47,-1,3.37,301,1
-Troy @ Georgia State: 34-10,-1,-3.67,-150,0
-Georgia Southern @ Troy: 16-38,-1,3.48,74,1
-Louisiana Monroe @ Idaho: 23-31,-2,-1.23,15,1
-Texas State @ Coastal Carolina: 27-7,-1,-1.68,-324,0
-Arkansas State @ New Mexico State: 37-21,0,-1.66,-161,0
-Idaho @ Troy: 21-24,2,0.25,17,1
-Appalachian State @ Louisiana Monroe: 45-52,0,0.31,61,1
-Georgia State @ Georgia Southern: 21-17,2,-1.73,-32,0
-New Mexico State @ Texas State: 45-35,2,-1.26,-59,0
-Louisiana @ South Alabama: 19-14,2,-0.5,-6,0
-Georgia Southern @ Appalachian State: 6-27,0,3.49,223,1
-Coastal Carolina @ Appalachian State: 29-37,-2,0.06,115,1
-Louisiana Monroe @ South Alabama: 23-33,-1,0.48,63,1
-South Alabama @ Georgia State: 13-21,-1,-0.01,-29,1
-Georgia State @ Texas State: 33-30,-1,-1.67,-140,0
-Troy @ Coastal Carolina: 42-17,1,-1.55,-123,0
-Arkansas State @ South Alabama: 19-24,-5,-0.32,-25,1
-Coastal Carolina @ Idaho: 13-7,0,-0.4,-2,0
-New Mexico State @ Louisiana: 34-47,-3,-0.22,103,1
-Texas State @ Arkansas State: 12-30,-1,1.5,274,1
-South Alabama @ Georgia Southern: 0-52,-3,3.18,388,1
-Appalachian State @ Georgia State: 31-10,-1,-1.44,-138,0
-Arkansas State @ Louisiana Monroe: 67-50,3,-1.76,-191,0
-Idaho @ New Mexico State: 10-17,-1,1.74,188,1
-Georgia Southern @ Louisiana: 34-24,3,1.63,-85,0
-Georgia Southern @ Coastal Carolina: 17-28,-1,2.01,81,1
-Idaho @ Georgia State: 24-10,4,-0.24,55,0
-Louisiana @ Appalachian State: 14-63,-3,2.64,239,1
-South Alabama @ New Mexico State: 17-22,-2,0.8,138,1
-Troy @ Arkansas State: 32-25,2,2.01,313,0
-Texas State @ Troy: 9-62,-4,5.17,341,1
-Austin Peay @ Cincinnati: 14-26,-2,0.39,-65,1
-Holy Cross @ Connecticut: 20-27,1,0.16,-9,1
-Stony Brook @ South Florida: 17-31,-1,0.91,110,1
-James Madison @ East Carolina: 34-14,2,-4.94,-252,0
-Stephen F. Austin @ SMU: 14-58,-2,3.23,246,1
-Grambling @ Tulane: 14-43,-1,2.7,256,1
-Tulane @ Navy: 21-23,2,0.65,64,1
-Villanova @ Temple: 13-16,-1,0.12,-49,1
-Temple @ South Florida: 7-43,-4,3.45,323,1
-Cincinnati @ Navy: 32-42,0,1.93,183,1
-South Florida @ East Carolina: 61-31,1,-3.05,-161,0
-Houston @ Temple: 20-13,2,-1.69,-64,0
-Southern Illinois @ Memphis: 31-44,-1,1.87,71,1
-East Carolina @ Connecticut: 41-38,1,0.81,0,0
-Memphis @ Connecticut: 70-31,3,-0.2,-234,0
-UCF @ Cincinnati: 51-23,1,-6.95,-124,0
-Tulsa @ Tulane: 28-62,-2,-0.72,241,1
-Temple @ East Carolina: 34-10,0,-1.67,-236,0
-SMU @ Houston: 22-35,0,0.41,-81,1
-Cincinnati @ South Florida: 3-33,-2,0.94,129,1
-East Carolina @ UCF: 21-63,0,3.3,256,1
-Navy @ Memphis: 27-30,-4,1.36,63,1
-Connecticut @ Temple: 28-24,0,1.93,229,0
-Houston @ Tulsa: 17-45,-2,1.27,12,1
-Memphis @ Houston: 42-38,1,-0.76,53,0
-South Florida @ Tulane: 34-28,0,-0.36,-90,0
-UCF @ Navy: 31-21,2,-1.58,-64,0
-Tulsa @ Connecticut: 14-20,-1,-0.08,-12,1
-SMU @ Cincinnati: 31-28,1,0.32,3,0
-Tulane @ Memphis: 26-56,0,4.93,232,1
-Tulsa @ SMU: 34-38,-1,3.21,123,1
-Navy @ Tulsa: 31-21,-1,-1.06,-167,0
-Houston @ South Florida: 28-24,-1,-0.47,65,0
-Austin Peay @ UCF: 33-73,-2,1.71,137,1
-Navy @ Temple: 26-34,0,1.68,31,1
-Memphis @ Tulsa: 41-14,1,-2.23,-222,0
-UCF @ SMU: 31-24,-2,-2.6,-126,0
-East Carolina @ Houston: 27-52,-3,4.69,-32,1
-South Florida @ Connecticut: 37-20,-1,-3.12,-278,0
-Cincinnati @ Tulane: 17-16,0,-1.8,-128,0
-Temple @ Cincinnati: 35-24,-1,-0.25,-24,0
-Connecticut @ SMU: 28-49,-1,-0.03,98,1
-Memphis @ UCF: 13-40,-3,2.11,207,1
-SMU @ Navy: 40-43,0,0.67,133,1
-Tulane @ East Carolina: 31-24,-2,-1.62,-57,0
-UCF @ Temple: 45-19,5,-0.49,13,0
-Tulsa @ South Florida: 20-27,2,1.47,64,1
-SMU @ Memphis: 45-66,0,2.35,187,1
-South Florida @ UCF: 42-49,-1,-1.43,-120,1
-Navy @ Houston: 14-24,1,2.16,89,1
-Cincinnati @ East Carolina: 20-48,-1,1.79,252,1
-Houston @ Tulane: 17-20,-1,-1.75,-28,1
-East Carolina @ Memphis: 13-70,-3,7.84,169,1
-Connecticut @ Cincinnati: 21-22,0,1.84,-114,1
-Tulane @ SMU: 38-41,2,0.69,-7,1
-Connecticut @ UCF: 24-49,-1,1.68,106,1
-Temple @ Tulsa: 43-22,3,-2.1,-82,0
-Memphis @ UCF: 55-62,2,0.73,-27,1
+info,to_margin,ypp_margin,yds_margin,result
+Presbyterian College @ Wake Forest: 7-51,0,2.17,239,1
+Central Connecticut @ Syracuse: 7-50,1,3.37,419,1
+Boston College @ Northern Illinois: 23-20,0,1.27,28,0
+Florida State vs Alabama: 7-24,-3,0.32,19,1
+Kent State @ Clemson: 3-56,1,6.08,545,1
+Louisville vs Purdue: 35-28,1,-2.22,-180,0
+Bethune-Cookman @ Miami: 13-41,-2,3.47,205,1
+California @ North Carolina: 35-30,1,-1.48,-29,0
+Youngstown State @ Pittsburgh: 21-28,0,-2.69,-70,1
+NC State vs South Carolina: 28-35,-1,-0.17,-258,1
+William & Mary @ Virginia: 10-28,-1,0.47,114,1
+North Carolina Central @ Duke: 7-60,-1,3.24,366,1
+West Virginia vs Virginia Tech: 24-31,-1,-0.14,-123,1
+Tennessee vs Georgia Tech: 42-41,2,0.57,286,0
+Auburn @ Clemson: 6-14,2,2.42,164,1
+Pittsburgh @ Penn State: 14-33,-2,2.02,-30,1
+Louisville @ North Carolina: 47-35,0,-1.92,-304,0
+Delaware @ Virginia Tech: 0-27,-1,1.78,80,1
+Northwestern @ Duke: 17-41,-1,1.64,347,1
+Jacksonville State @ Georgia Tech: 10-37,-3,2.12,133,1
+Wake Forest @ Boston College: 34-10,4,-0.63,-4,0
+Indiana @ Virginia: 34-17,-1,-0.89,6,0
+Middle Tennessee @ Syracuse: 30-23,-1,-1.95,-55,0
+Marshall @ NC State: 20-37,-2,0.4,34,1
+Clemson @ Louisville: 47-21,1,-1.29,-180,0
+Oklahoma State @ Pittsburgh: 59-21,0,-3.72,-285,0
+Virginia Tech @ East Carolina: 64-17,3,-2.5,-394,0
+Connecticut @ Virginia: 18-38,-1,2.34,192,1
+Furman @ NC State: 16-49,-3,2.12,161,1
+Baylor @ Duke: 20-34,-2,-0.25,110,1
+Utah State @ Wake Forest: 10-46,-1,2.91,321,1
+Central Michigan @ Syracuse: 17-41,0,2.55,197,1
+North Carolina @ Old Dominion: 53-23,2,-1.86,-195,0
+Notre Dame @ Boston College: 49-20,1,-3.13,-211,0
+Virginia @ Boise State: 42-23,1,-1.4,-57,0
+Boston College @ Clemson: 7-34,0,2.13,244,1
+NC State @ Florida State: 27-21,1,0.66,17,0
+Old Dominion @ Virginia Tech: 0-38,0,3.56,433,1
+Toledo @ Miami: 30-52,0,4.42,158,1
+Kent State @ Louisville: 3-42,1,6.91,389,1
+Syracuse @ LSU: 26-35,0,2.1,30,1
+Pittsburgh @ Georgia Tech: 17-35,3,2.27,249,1
+Wake Forest @ Appalachian State: 20-19,0,0.54,150,0
+Duke @ North Carolina: 27-17,1,0.89,-11,0
+Miami @ Duke: 31-6,1,-2.74,-60,0
+Clemson @ Virginia Tech: 31-17,3,-0.5,10,0
+Murray State @ Louisville: 10-55,1,5.57,596,1
+Rice @ Pittsburgh: 10-42,-2,2.11,202,1
+North Carolina @ Georgia Tech: 7-33,0,1.74,209,1
+Syracuse @ NC State: 25-33,-1,0.01,18,1
+Central Michigan @ Boston College: 8-28,-1,0.28,13,1
+Florida State @ Wake Forest: 26-19,1,1.1,97,0
+Louisville @ NC State: 25-39,0,1.22,50,1
+Wake Forest @ Clemson: 14-28,2,-0.08,117,1
+Miami @ Florida State: 24-20,1,1.1,69,0
+Virginia Tech @ Boston College: 23-10,-1,-0.11,-87,0
+Notre Dame @ North Carolina: 33-10,1,-1.75,-222,0
+Duke @ Virginia: 21-28,0,0.38,55,1
+Pittsburgh @ Syracuse: 24-27,0,-0.57,142,1
+Clemson @ Syracuse: 24-27,1,-0.26,123,1
+Georgia Tech @ Miami: 24-25,-1,1.89,200,1
+NC State @ Pittsburgh: 35-17,2,-2.85,-120,0
+Florida State @ Duke: 17-10,-1,-1.89,-110,0
+Boston College @ Louisville: 45-42,1,1.95,70,0
+Virginia @ North Carolina: 20-14,2,-0.34,-148,0
+Syracuse @ Miami: 19-27,-3,2.11,81,1
+North Carolina @ Virginia Tech: 7-59,-3,2.56,211,1
+Louisville @ Florida State: 31-28,2,-0.8,-46,0
+Pittsburgh @ Duke: 24-17,2,-0.48,-126,0
+Boston College @ Virginia: 41-10,3,-3.58,-265,0
+Wake Forest @ Georgia Tech: 24-38,-1,0.49,133,1
+Florida State @ Boston College: 3-35,-3,0.53,116,1
+Georgia Tech @ Clemson: 10-24,0,1.38,198,1
+Miami @ North Carolina: 24-19,2,-1.03,13,0
+NC State @ Notre Dame: 14-35,-1,1.47,159,1
+Duke @ Virginia Tech: 3-24,-2,1.99,204,1
+Louisville @ Wake Forest: 32-42,0,2.62,102,1
+Virginia @ Pittsburgh: 14-31,0,1.04,-4,1
+Wake Forest @ Notre Dame: 37-48,-1,1.78,123,1
+Clemson @ NC State: 38-31,1,0.16,76,0
+Virginia Tech @ Miami: 10-28,-1,3.41,130,1
+Syracuse @ Florida State: 24-27,0,1.25,-120,1
+Georgia Tech @ Virginia: 36-40,0,-0.14,-42,1
+Notre Dame @ Miami: 8-41,-4,1.52,113,1
+Florida State @ Clemson: 14-31,0,0.52,149,1
+North Carolina @ Pittsburgh: 34-31,1,0.85,41,0
+The Citadel @ Clemson: 3-61,-2,6.4,446,1
+Virginia Tech @ Georgia Tech: 22-28,1,2.01,143,1
+Virginia @ Miami: 28-44,-1,-0.79,-81,1
+NC State @ Boston College: 17-14,0,-0.46,-20,0
+NC State @ Wake Forest: 24-30,-2,0.62,-168,1
+Duke @ Army: 16-21,-1,0.6,15,1
+Delaware State @ Florida State: 6-77,-2,5.24,290,1
+Pittsburgh @ Virginia Tech: 14-20,-1,-0.94,9,1
+Western Carolina @ North Carolina: 10-65,-2,4.03,307,1
+Syracuse @ Louisville: 10-56,-4,5.86,392,1
+Georgia Tech @ Duke: 20-43,-1,0.44,141,1
+Boston College vs Connecticut: 39-16,2,-0.45,27,0
+Miami @ Pittsburgh: 14-24,1,0.73,113,1
+Virginia Tech @ Virginia: 10-0,0,-1.13,-154,0
+Clemson @ South Carolina: 34-10,0,-1.82,-262,0
+Georgia @ Georgia Tech: 38-7,1,-3.74,-245,0
+Florida State @ Florida: 38-22,3,-0.09,64,0
+Louisville @ Kentucky: 44-17,0,-3.33,-224,0
+Boston College @ Syracuse: 42-14,2,-0.92,-164,0
+Duke @ Wake Forest: 31-23,0,-0.11,-107,0
+North Carolina @ NC State: 21-33,-1,1.4,136,1
+Miami vs Clemson: 3-38,-2,0.79,117,1
+Louisiana Monroe @ Florida State: 10-42,2,3.06,204,1
+Wake Forest @ Syracuse: 64-43,1,-1.97,-113,0
+Virginia @ Louisville: 21-38,0,2.82,216,1
+Alabama vs Clemson: 24-6,1,-1.27,-73,0
+Louisville vs Mississippi State: 27-31,1,-0.27,-46,1
+Duke vs Northern Illinois: 36-14,1,-0.19,166,0
+Southern Mississippi vs Florida State: 13-42,1,-1.38,-192,1
+Iowa vs Boston College: 27-20,-3,-1.77,-183,0
+NC State vs Arizona State: 52-31,3,0.01,-13,0
+Wake Forest vs Texas A&M: 55-52,1,-0.13,-32,0
+Virginia Tech vs Oklahoma State: 21-30,-2,1.99,-30,1
+Wisconsin @ Miami: 34-24,-2,-1.73,23,0
+Virginia @ Navy: 7-49,-3,2.63,277,1
+Tulsa @ Oklahoma State: 24-59,0,5.75,208,1
+UTEP @ Oklahoma: 7-56,-1,5.66,509,1
+Central Arkansas @ Kansas State: 19-55,-3,6.36,98,1
+Maryland @ Texas: 51-41,1,-2.68,-9,0
+Eastern Washington @ Texas Tech: 10-56,-3,4.17,325,1
+Liberty @ Baylor: 48-45,2,2.63,-53,0
+Southeast Missouri State @ Kansas: 16-38,2,3.76,184,1
+Jackson State @ TCU: 0-63,-1,7.05,477,1
+Northern Iowa @ Iowa State: 24-42,-2,-0.6,27,1
+Oklahoma State @ South Alabama: 44-7,2,-3.04,-330,0
+Oklahoma @ Ohio State: 31-16,-1,-1.73,-140,0
+Charlotte @ Kansas State: 7-55,-3,3.49,325,1
+TCU @ Arkansas: 28-7,-1,-0.0,-94,0
+East Carolina @ West Virginia: 20-56,-2,1.63,144,1
+Iowa @ Iowa State: 44-41,1,0.43,-30,0
+San José State @ Texas: 0-56,-2,3.79,452,1
+Central Michigan @ Kansas: 45-27,1,-3.3,-120,0
+UT San Antonio @ Baylor: 17-10,0,-1.05,-101,0
+Arizona State @ Texas Tech: 45-52,0,1.97,121,1
+Oklahoma @ Baylor: 49-41,0,-4.44,-102,0
+TCU @ Oklahoma State: 44-31,3,1.35,33,0
+Texas Tech @ Houston: 27-24,4,-1.53,-94,0
+Tulane @ Oklahoma: 14-56,0,6.24,340,1
+Texas @ USC: 24-27,-2,0.44,102,1
+West Virginia @ Kansas: 56-34,2,-1.03,-71,0
+Kansas State @ Vanderbilt: 7-14,-1,0.51,-7,1
+SMU @ TCU: 36-56,1,1.03,156,1
+Texas @ Iowa State: 17-7,1,0.0,-56,0
+Oklahoma State @ Texas Tech: 41-34,0,-1.95,-213,0
+Baylor @ Kansas State: 20-33,-1,0.45,-31,1
+Iowa State @ Oklahoma: 38-31,1,-0.18,64,0
+West Virginia @ TCU: 24-31,-2,0.2,-102,1
+Texas Tech @ Kansas: 65-19,2,-2.79,-235,0
+Kansas State @ Texas: 34-40,0,-0.35,152,1
+TCU @ Kansas State: 26-6,0,-1.75,-179,0
+Oklahoma vs Texas: 29-24,-1,-2.51,-90,0
+Baylor @ Oklahoma State: 16-59,-1,5.8,360,1
+Texas Tech @ West Virginia: 35-46,0,-1.47,-117,1
+Kansas @ Iowa State: 0-45,-2,2.56,212,1
+Kansas @ TCU: 0-43,0,6.36,454,1
+Oklahoma @ Kansas State: 42-35,0,-0.48,-207,0
+Oklahoma State @ Texas: 13-10,0,-0.71,-145,0
+West Virginia @ Baylor: 38-36,0,-1.41,4,0
+Iowa State @ Texas Tech: 31-13,2,-1.78,-64,0
+TCU @ Iowa State: 7-14,-2,-1.45,-52,1
+Kansas @ Ohio: 30-42,0,1.32,-1,1
+Delaware State @ West Virginia: 16-59,0,2.78,237,1
+Iowa State @ Akron: 41-14,3,-2.39,-177,0
+Texas Tech @ Oklahoma: 27-49,0,1.37,180,1
+Oklahoma State @ West Virginia: 50-39,1,-0.31,-115,0
+Kansas State @ Kansas: 30-20,1,0.27,142,0
+Texas @ Baylor: 38-7,2,-2.69,-178,0
+Oklahoma @ Kansas: 41-3,2,-4.06,-314,0
+Oklahoma @ Oklahoma State: 62-52,1,-2.82,-124,0
+Texas @ TCU: 7-24,0,0.94,80,1
+Iowa State @ West Virginia: 16-20,0,2.21,174,1
+Kansas State @ Texas Tech: 42-35,0,-0.1,119,0
+Baylor @ Kansas: 38-9,2,-2.41,-166,0
+TCU @ Oklahoma: 20-38,0,0.89,109,1
+Texas Tech vs Baylor: 38-24,3,-0.03,186,0
+West Virginia @ Kansas State: 28-23,-2,-1.95,-160,0
+Kansas @ Texas: 27-42,-2,0.35,7,1
+TCU @ Texas Tech: 27-3,1,-0.65,38,0
+Oklahoma State @ Iowa State: 49-42,1,-1.22,-31,0
+Kansas State @ Oklahoma State: 45-40,1,-0.72,89,0
+Baylor @ TCU: 22-45,-3,-0.17,44,1
+Texas @ West Virginia: 28-14,1,-1.4,-125,0
+Texas Tech @ Texas: 27-23,2,-0.38,-7,0
+West Virginia @ Oklahoma: 31-59,-2,6.42,258,1
+Kansas @ Oklahoma State: 17-58,-1,3.8,420,1
+Iowa State @ Baylor: 23-13,2,-1.32,-63,0
+Iowa State @ Kansas State: 19-20,0,-0.67,-115,1
+TCU vs Oklahoma: 17-41,-2,1.79,144,1
+Georgia vs Oklahoma: 54-48,0,-1.81,4,0
+Kansas State vs UCLA: 35-17,0,-0.24,-59,0
+Texas vs Missouri: 33-16,4,1.79,110,0
+Iowa State @ Memphis: 21-20,-1,1.42,-7,0
+Texas Tech vs South Florida: 34-38,0,1.0,12,1
+Stanford vs TCU: 37-39,1,1.23,119,1
+Utah vs West Virginia: 30-14,2,-1.53,-209,0
+Ohio State @ Indiana: 49-21,3,-2.33,-159,0
+Buffalo @ Minnesota: 7-17,0,0.82,146,1
+Washington @ Rutgers: 30-14,2,-2.8,-59,0
+Utah State @ Wisconsin: 10-59,-2,2.56,174,1
+Akron @ Penn State: 0-52,0,6.23,410,1
+Michigan vs Florida: 33-17,1,-2.15,-241,0
+Ball State @ Illinois: 21-24,-1,-0.0,-159,1
+Wyoming @ Iowa: 3-24,2,1.37,30,1
+Bowling Green @ Michigan State: 10-35,2,1.82,253,1
+Nevada @ Northwestern: 20-31,0,0.36,167,1
+Arkansas State @ Nebraska: 36-43,-2,1.03,-34,1
+Ohio @ Purdue: 21-44,-2,2.3,162,1
+Cincinnati @ Michigan: 14-36,0,3.42,214,1
+Florida Atlantic @ Wisconsin: 14-31,2,2.12,316,1
+Towson @ Maryland: 17-63,-2,5.6,225,1
+Western Michigan @ Michigan State: 14-28,1,3.43,262,1
+Eastern Michigan @ Rutgers: 16-13,1,-0.4,-48,0
+Nebraska @ Oregon: 35-42,-2,2.19,205,1
+Western Kentucky @ Illinois: 7-20,-1,-0.14,56,1
+Minnesota @ Oregon State: 48-14,2,-2.14,-186,0
+Illinois @ South Florida: 23-47,-2,0.5,326,1
+Georgia State @ Penn State: 0-56,-5,5.97,206,1
+Air Force @ Michigan: 13-29,0,1.52,127,1
+Army @ Ohio State: 7-38,-1,4.28,308,1
+Wisconsin @ BYU: 40-6,2,-3.05,-299,0
+Northern Illinois @ Nebraska: 21-17,2,0.68,171,0
+Morgan State @ Rutgers: 0-65,-3,4.13,333,1
+Middle Tennessee @ Minnesota: 3-34,-2,1.24,113,1
+North Texas @ Iowa: 14-31,0,-1.57,130,1
+Purdue @ Missouri: 35-3,2,-1.77,-274,0
+UCF @ Maryland: 38-10,2,-3.17,-231,0
+Rutgers @ Nebraska: 17-27,0,0.53,112,1
+Georgia Southern @ Indiana: 17-52,-3,1.41,92,1
+Notre Dame @ Michigan State: 38-18,3,-0.08,141,0
+Nebraska @ Illinois: 28-6,0,-2.87,-212,0
+Indiana @ Penn State: 14-45,-3,0.54,18,1
+Northwestern @ Wisconsin: 24-33,1,2.28,62,1
+Bowling Green @ Northwestern: 7-49,1,4.41,326,1
+Ohio State @ Rutgers: 56-0,2,-6.16,-419,0
+Maryland @ Minnesota: 31-24,2,-0.13,-107,0
+Penn State @ Iowa: 21-19,-1,0.22,-306,0
+Michigan @ Purdue: 28-10,-1,-1.86,-234,0
+UNLV @ Ohio State: 21-54,1,3.58,400,1
+Iowa @ Michigan State: 10-17,-2,0.36,69,1
+Penn State @ Northwestern: 31-7,3,-1.19,-116,0
+Purdue @ Wisconsin: 9-17,2,2.94,273,1
+Michigan State @ Michigan: 14-10,5,-0.01,48,0
+Wisconsin @ Nebraska: 38-17,1,-0.81,-85,0
+Maryland @ Ohio State: 14-62,0,5.59,518,1
+Illinois @ Iowa: 16-45,-2,0.18,-5,1
+Minnesota @ Purdue: 17-31,2,2.2,111,1
+Charleston Southern @ Indiana: 0-27,3,3.08,344,1
+Ohio State @ Nebraska: 56-14,1,-1.12,-240,0
+Northwestern @ Maryland: 37-21,2,0.78,191,0
+Michigan @ Indiana: 27-20,2,-1.28,-51,0
+Michigan State @ Minnesota: 30-27,-1,-0.45,-75,0
+Rutgers @ Illinois: 35-24,0,-0.49,18,0
+Michigan @ Penn State: 13-42,0,4.45,237,1
+Maryland @ Wisconsin: 13-38,0,2.65,172,1
+Indiana @ Michigan State: 9-17,1,0.05,22,1
+Illinois @ Minnesota: 17-24,1,0.34,55,1
+Iowa @ Northwestern: 10-17,-1,-0.59,27,1
+Purdue @ Rutgers: 12-14,-2,-1.63,-257,1
+Penn State @ Ohio State: 38-39,2,2.36,246,1
+Indiana @ Maryland: 39-42,0,1.18,-138,1
+Minnesota @ Iowa: 10-17,1,1.35,34,1
+Nebraska @ Purdue: 25-24,0,-0.62,-108,0
+Wisconsin @ Illinois: 24-10,2,-0.27,-17,0
+Michigan State @ Northwestern: 31-39,-1,-0.67,-108,1
+Ohio State @ Iowa: 24-55,-4,1.16,116,1
+Penn State @ Michigan State: 24-27,-2,-0.83,8,1
+Wisconsin @ Indiana: 45-17,2,-0.66,-141,0
+Rutgers @ Michigan: 14-35,1,2.48,276,1
+Illinois @ Purdue: 10-29,0,2.01,185,1
+Minnesota @ Michigan: 10-33,-1,5.61,263,1
+Maryland @ Rutgers: 24-31,1,-0.17,-39,1
+Northwestern @ Nebraska: 31-24,1,-1.05,-138,0
+Rutgers @ Penn State: 6-35,-1,2.46,104,1
+Purdue @ Northwestern: 13-23,-1,-0.63,-48,1
+Indiana @ Illinois: 24-14,2,0.49,-134,0
+Michigan @ Maryland: 35-10,2,-0.59,35,0
+Nebraska @ Minnesota: 21-54,0,2.92,134,1
+Iowa @ Nebraska: 56-14,3,-3.3,-238,0
+Michigan @ Wisconsin: 10-24,0,1.79,91,1
+Illinois @ Ohio State: 14-52,0,3.67,438,1
+Nebraska @ Penn State: 44-56,1,1.27,143,1
+Maryland @ Michigan State: 7-17,0,0.83,87,1
+Minnesota @ Northwestern: 0-39,-5,1.62,181,1
+Rutgers @ Indiana: 0-41,-1,3.29,313,1
+Wisconsin @ Minnesota: 31-0,-1,-4.83,-323,0
+Purdue @ Iowa: 24-15,2,-0.82,-36,0
+Ohio State @ Michigan: 31-20,1,-1.22,-55,0
+Penn State @ Maryland: 66-3,2,-1.18,-231,0
+Michigan State @ Rutgers: 40-7,3,-1.23,-319,0
+Northwestern @ Illinois: 42-7,2,-2.82,-207,0
+Ohio State vs Wisconsin: 27-21,-1,-2.52,-151,0
+Indiana @ Purdue: 24-31,0,0.8,-44,1
+Iowa @ Wisconsin: 14-38,1,4.38,316,1
+Michigan State @ Ohio State: 3-48,-1,5.28,329,1
+Michigan vs South Carolina: 19-26,2,-1.62,-23,1
+Kentucky vs Northwestern: 23-24,-2,0.2,104,1
+Washington vs Penn State: 28-35,2,0.88,214,1
+Washington State vs Michigan State: 17-42,-1,1.18,144,1
+USC vs Ohio State: 7-24,-3,-0.06,-136,1
+Arizona vs Purdue: 35-38,-1,-0.26,125,1
+Florida A&M vs Arkansas: 7-49,0,3.28,240,1
+Georgia Southern @ Auburn: 7-41,2,5.38,457,1
+BYU vs LSU: 0-27,-1,3.83,382,1
+Appalachian State @ Georgia: 10-31,2,1.31,84,1
+Missouri State @ Missouri: 43-72,0,4.22,323,1
+Kentucky @ Southern Mississippi: 24-17,2,0.05,110,0
+Charleston Southern @ Mississippi State: 0-49,0,5.75,522,1
+South Alabama @ Ole Miss: 27-47,1,2.8,157,1
+Vanderbilt @ Middle Tennessee: 28-6,1,-2.05,-152,0
+Texas A&M @ UCLA: 44-45,3,1.53,83,1
+Fresno State @ Alabama: 10-41,-1,3.2,224,1
+Chattanooga @ LSU: 10-45,-2,2.99,212,1
+Georgia @ Notre Dame: 20-19,0,-1.03,-60,0
+Indiana State @ Tennessee: 7-42,2,2.12,180,1
+Colorado State @ Alabama: 23-41,-2,3.1,96,1
+LSU @ Mississippi State: 7-37,0,1.89,195,1
+Samford @ Georgia: 14-42,0,2.36,210,1
+Mercer @ Auburn: 10-24,5,2.7,264,1
+Tennessee @ Florida: 20-26,0,0.53,-62,1
+Louisiana @ Texas A&M: 21-45,-3,2.25,171,1
+Eastern Kentucky @ Kentucky: 16-27,-2,1.87,118,1
+UT Martin @ Ole Miss: 23-45,0,3.43,209,1
+Kentucky @ South Carolina: 23-13,0,1.45,5,0
+Alabama A&M @ Vanderbilt: 0-42,-2,4.63,298,1
+South Carolina @ Missouri: 31-13,3,0.85,64,0
+Ole Miss @ California: 16-27,-1,-1.16,-17,1
+Alabama @ Vanderbilt: 59-0,2,-5.23,-599,0
+Mississippi State @ Georgia: 3-31,-1,3.48,124,1
+Auburn @ Missouri: 51-14,4,-1.66,-142,0
+Florida @ Kentucky: 28-27,-1,-0.51,-55,0
+Texas A&M vs Arkansas: 50-43,0,-0.91,-44,0
+UMass @ Tennessee: 13-17,1,-0.27,38,1
+Louisiana Tech @ South Carolina: 16-17,1,0.62,77,1
+Ole Miss @ Alabama: 3-66,-2,3.57,360,1
+Georgia @ Tennessee: 41-0,3,-2.52,-236,0
+Mississippi State @ Auburn: 10-49,0,4.95,160,1
+Vanderbilt @ Florida: 24-38,0,0.9,157,1
+Troy @ LSU: 24-21,2,1.83,65,0
+New Mexico State @ Arkansas: 24-42,-1,-0.41,139,1
+Eastern Michigan @ Kentucky: 20-24,-2,-0.65,-84,1
+South Carolina @ Texas A&M: 17-24,0,0.23,117,1
+Alabama @ Texas A&M: 27-19,2,-0.92,-47,0
+Georgia @ Vanderbilt: 45-14,-1,-3.62,-313,0
+Ole Miss @ Auburn: 23-44,0,2.5,132,1
+LSU @ Florida: 17-16,0,0.26,-39,0
+Arkansas @ South Carolina: 22-48,-4,0.56,28,1
+Missouri @ Kentucky: 34-40,-1,-1.08,-82,1
+Arkansas @ Alabama: 9-41,1,4.6,269,1
+Missouri @ Georgia: 28-53,0,2.67,384,1
+Auburn @ LSU: 23-27,1,0.61,9,1
+BYU @ Mississippi State: 10-35,1,2.67,370,1
+South Carolina @ Tennessee: 15-9,0,-0.68,-70,0
+Vanderbilt @ Ole Miss: 35-57,-2,2.3,186,1
+Texas A&M @ Florida: 19-17,1,1.21,108,0
+Nicholls @ Texas A&M: 14-24,-2,-1.3,55,1
+Mississippi State @ Louisiana Tech: 57-21,2,-3.71,-144,0
+Kentucky @ Mississippi State: 7-45,-2,1.47,181,1
+Tennessee @ Alabama: 7-45,1,4.68,496,1
+Georgia vs Florida: 42-7,1,-5.58,-144,0
+Auburn @ Arkansas: 52-20,1,-3.26,-295,0
+Arkansas @ Ole Miss: 38-37,1,4.18,117,0
+LSU @ Ole Miss: 40-24,3,-3.12,-246,0
+Vanderbilt @ South Carolina: 27-34,-1,-0.26,-54,1
+Idaho @ Missouri: 21-68,0,6.52,380,1
+Missouri @ Connecticut: 52-12,0,-3.76,-229,0
+Mississippi State @ Texas A&M: 35-14,2,-0.92,-84,0
+Tennessee @ Kentucky: 26-29,4,1.43,-74,1
+Southern Mississippi @ Tennessee: 10-24,-2,-0.16,-69,1
+South Carolina @ Georgia: 10-24,-1,0.75,168,1
+LSU @ Alabama: 10-24,-1,0.79,-7,1
+Georgia @ Auburn: 17-40,-1,3.1,258,1
+Auburn @ Texas A&M: 42-27,0,-1.16,-153,0
+UMass @ Mississippi State: 23-34,2,-0.3,43,1
+Florida @ Missouri: 16-45,-1,0.97,106,1
+Western Kentucky @ Vanderbilt: 17-31,0,2.83,45,1
+Ole Miss @ Kentucky: 37-34,0,-0.56,-18,0
+Coastal Carolina @ Arkansas: 38-39,1,3.28,164,1
+Louisiana @ Ole Miss: 22-50,1,1.64,214,1
+Florida @ South Carolina: 20-28,1,1.24,168,1
+Kentucky @ Vanderbilt: 44-21,3,-0.83,-59,0
+Mercer @ Alabama: 0-56,-1,6.19,369,1
+New Mexico @ Texas A&M: 14-55,-1,6.07,418,1
+Louisiana Monroe @ Auburn: 14-42,-1,3.38,222,1
+Tennessee @ Missouri: 17-50,-3,3.75,374,1
+Kentucky @ Georgia: 13-42,0,4.32,242,1
+Mississippi State @ Arkansas: 28-21,-1,-0.65,-127,0
+Texas A&M @ Ole Miss: 31-24,1,0.21,0,0
+Missouri @ Vanderbilt: 45-17,3,-1.79,-27,0
+LSU @ Tennessee: 30-10,2,0.02,6,0
+Ole Miss @ Mississippi State: 31-28,3,-1.24,146,0
+Wofford @ South Carolina: 10-31,-3,1.35,162,1
+Missouri @ Arkansas: 48-45,-1,0.49,-250,0
+Alabama @ Auburn: 14-26,0,0.08,94,1
+Texas A&M @ LSU: 21-45,-3,1.96,319,1
+Vanderbilt @ Tennessee: 42-24,1,-1.61,-291,0
+Georgia vs Auburn: 28-7,2,-2.57,-162,0
+UAB @ Florida: 7-36,-4,0.38,229,1
+Arkansas @ LSU: 10-33,-1,2.8,97,1
+Notre Dame vs LSU: 21-17,-2,-0.62,31,0
+Alabama vs Georgia: 26-23,-1,0.49,6,0
+UCF vs Auburn: 34-27,-2,0.95,-10,0
+Stanford vs Rice: 62-7,-2,5.1,415,0
+Oregon State @ Colorado State: 27-58,-3,0.4,69,1
+North Dakota @ Utah: 16-37,0,2.21,257,1
+New Mexico State @ Arizona State: 31-37,-2,-0.52,-149,1
+Colorado State vs Colorado: 3-17,-1,0.19,-52,1
+Western Michigan @ USC: 31-49,1,2.75,164,1
+Montana State @ Washington State: 0-31,0,3.75,368,1
+Portland State @ Oregon State: 32-35,-1,0.54,-126,1
+Southern Utah @ Oregon: 21-77,0,4.65,338,1
+Northern Arizona @ Arizona: 24-62,-3,3.65,33,1
+Stanford @ USC: 24-42,2,2.09,281,1
+Montana @ Washington: 7-63,-3,5.24,343,1
+Boise State @ Washington State: 44-47,-1,-0.73,54,1
+Utah @ BYU: 19-13,1,-2.19,-197,0
+Houston @ Arizona: 19-16,0,-0.67,-12,0
+San Diego State @ Arizona State: 30-20,1,-0.43,-10,0
+Arizona @ UTEP: 63-16,1,-1.58,-283,0
+Fresno State @ Washington: 16-48,1,2.57,107,1
+Stanford @ San Diego State: 17-20,-3,-1.38,99,1
+Oregon State @ Washington State: 23-52,-2,1.58,137,1
+Texas State @ Colorado: 3-37,-2,1.23,147,1
+UCLA @ Memphis: 45-48,0,0.41,-73,1
+Northern Colorado @ Colorado: 21-41,1,3.1,296,1
+Hawai'i @ UCLA: 23-56,-1,2.82,-10,1
+Weber State @ California: 20-33,-2,0.07,-140,1
+UCLA @ Stanford: 34-58,-3,0.08,-42,1
+Oregon @ Wyoming: 49-13,-1,-2.66,-375,0
+San José State @ Utah: 16-54,-2,2.31,238,1
+Utah @ Arizona: 30-24,3,0.17,107,0
+USC @ Washington State: 27-30,-1,0.07,135,1
+Washington @ Oregon State: 42-7,1,-3.11,-325,0
+Arizona State @ Stanford: 24-34,-1,3.08,95,1
+Colorado @ UCLA: 23-27,1,0.13,33,1
+California @ Oregon: 24-45,-1,2.23,196,1
+California @ Washington: 7-38,0,2.92,284,1
+Washington State @ Oregon: 33-10,1,-1.66,-92,0
+Oregon State @ USC: 10-38,0,2.11,193,1
+Stanford @ Utah: 23-20,2,-1.75,-2,0
+Arizona @ Colorado: 45-42,-1,-4.0,-16,0
+Washington State @ California: 3-37,-7,0.66,28,1
+Washington @ Arizona State: 7-13,0,0.13,55,1
+Utah @ USC: 27-28,2,0.09,96,1
+Oregon @ Stanford: 7-49,-1,1.79,195,1
+Colorado @ Oregon State: 36-33,1,1.02,184,0
+UCLA @ Arizona: 30-47,-4,2.5,196,1
+USC @ Notre Dame: 14-49,-3,2.19,161,1
+Colorado @ Washington State: 0-28,1,2.85,232,1
+Arizona State @ Utah: 30-10,3,-0.18,-80,0
+Oregon @ UCLA: 14-31,-2,1.43,88,1
+Arizona @ California: 45-44,1,-3.45,-38,0
+Stanford @ Oregon State: 15-14,2,0.49,42,0
+UCLA @ Washington: 23-44,1,2.51,210,1
+Washington State @ Arizona: 37-58,-1,5.01,-68,1
+USC @ Arizona State: 48-17,0,-1.64,-250,0
+USC @ California: 30-20,4,0.21,60,0
+Washington @ Colorado: 37-10,2,-2.64,-103,0
+California @ Colorado: 28-44,0,1.34,118,1
+Nevada @ Washington State: 7-45,-1,3.87,409,1
+Oregon @ Arizona State: 35-37,0,-0.85,88,1
+Utah @ Oregon: 20-41,0,1.45,32,1
+UCLA @ Utah: 17-48,-1,1.84,257,1
+Oregon State @ California: 23-37,1,1.0,176,1
+Oregon @ Washington: 3-38,-1,3.69,173,1
+Arizona @ USC: 35-49,-2,3.1,262,1
+Stanford @ Washington State: 21-24,0,1.37,232,1
+Colorado @ Arizona State: 30-41,-1,0.95,129,1
+Washington State @ Utah: 33-25,5,0.9,29,0
+Washington @ Stanford: 22-30,-1,-0.09,81,1
+USC @ Colorado: 38-24,2,-1.39,-36,0
+UCLA @ USC: 23-28,-1,0.01,-84,1
+Utah @ Washington: 30-33,-1,1.42,67,1
+California @ Stanford: 14-17,0,-0.01,41,1
+Arizona State @ Oregon State: 40-24,2,-1.3,-78,0
+Arizona @ Oregon: 28-48,-1,4.16,258,1
+California @ UCLA: 27-30,0,0.81,4,1
+Arizona @ Arizona State: 30-42,1,-0.19,-49,1
+Oregon State @ Oregon: 10-69,-3,4.12,366,1
+Colorado @ Utah: 13-34,-1,1.4,172,1
+Stanford vs USC: 28-31,1,1.76,158,1
+Notre Dame @ Stanford: 20-38,-3,-0.22,-87,1
+Washington State @ Washington: 14-41,-4,1.79,76,1
+Arizona State @ UCLA: 37-44,0,1.39,-11,1
+Oregon State @ Arizona: 28-49,0,4.42,242,1
+Boise State vs Oregon: 38-28,-1,0.91,196,0
+Florida International @ UCF: 17-61,-2,1.65,252,1
+Charlotte @ Eastern Michigan: 7-24,-1,1.08,113,1
+Navy @ Florida Atlantic: 42-19,0,-1.02,-200,0
+Alabama A&M @ UAB: 7-38,0,2.2,234,1
+Albany @ Old Dominion: 17-31,2,1.18,10,1
+Miami (OH) @ Marshall: 26-31,0,-0.13,-162,1
+Lamar @ North Texas: 14-59,-1,4.36,402,1
+Eastern Kentucky @ Western Kentucky: 17-31,1,0.2,19,1
+Northwestern State @ Louisiana Tech: 24-52,0,1.57,108,1
+UAB @ Ball State: 31-51,-2,-2.13,-127,1
+Old Dominion @ UMass: 17-7,0,-0.21,-34,0
+Southern @ Southern Mississippi: 0-45,-1,3.58,337,1
+North Texas @ SMU: 32-54,-2,-0.09,0,1
+Alcorn State vs Florida International: 10-17,1,1.81,196,1
+Coastal Carolina @ UAB: 23-30,-2,-0.12,-53,1
+Bethune-Cookman @ Florida Atlantic: 0-45,0,4.75,502,1
+Kent State @ Marshall: 0-21,0,0.77,122,1
+Southern Mississippi @ Louisiana Monroe: 28-17,0,-1.52,-204,0
+Southern @ UT San Antonio: 17-51,1,4.75,353,1
+Louisiana Tech @ Western Kentucky: 23-22,-1,-1.37,-61,0
+Rice @ Houston: 3-38,-3,2.42,242,1
+North Carolina A&T @ Charlotte: 35-31,2,-0.55,16,0
+Georgia State @ Charlotte: 28-0,3,-0.46,-96,0
+UAB @ North Texas: 43-46,0,2.02,153,1
+Ball State @ Western Kentucky: 21-33,-1,-0.57,-3,1
+Florida Atlantic @ Buffalo: 31-34,-1,-0.79,46,1
+Bowling Green @ Middle Tennessee: 13-24,3,2.67,249,1
+Florida International @ Rice: 13-7,0,-0.8,-23,0
+UT San Antonio @ Texas State: 44-14,0,-4.77,-371,0
+UTEP @ New Mexico State: 14-41,-3,3.17,235,1
+Florida International @ Middle Tennessee: 17-37,-2,2.18,120,1
+UTEP @ Army: 21-35,1,2.83,171,1
+Charlotte @ Florida International: 29-30,1,0.44,-29,1
+Middle Tennessee @ Florida Atlantic: 20-38,-3,-0.42,-15,1
+South Alabama @ Louisiana Tech: 16-34,-1,1.68,146,1
+Marshall @ Cincinnati: 38-21,2,0.22,-17,0
+Louisiana Tech @ UAB: 22-23,0,-0.38,3,1
+Marshall @ Charlotte: 14-3,-1,-1.69,-192,0
+Florida Atlantic @ Old Dominion: 58-28,2,-0.56,-139,0
+Army @ Rice: 49-12,5,-0.31,-81,0
+Southern Mississippi @ UT San Antonio: 31-29,-1,-2.81,11,0
+North Texas @ Southern Mississippi: 43-28,-2,-0.36,-125,0
+Western Kentucky @ UTEP: 15-14,0,0.92,5,0
+Charlotte @ Western Kentucky: 14-45,0,0.99,318,1
+Old Dominion @ Marshall: 3-35,-2,2.76,174,1
+Middle Tennessee @ UAB: 23-25,-1,0.6,40,1
+UT San Antonio @ North Texas: 26-29,1,0.69,52,1
+UTEP @ Southern Mississippi: 0-24,0,2.94,276,1
+Tulane @ Florida International: 10-23,0,1.57,199,1
+Western Kentucky @ Old Dominion: 35-31,2,0.02,32,0
+Marshall @ Middle Tennessee: 38-10,2,-1.04,-93,0
+North Texas @ Florida Atlantic: 31-69,-3,4.44,384,1
+Florida International @ Marshall: 41-30,3,0.16,104,0
+Louisiana Tech @ Rice: 42-28,4,1.02,17,0
+UAB @ Charlotte: 24-25,0,-0.67,32,1
+Florida Atlantic @ Western Kentucky: 42-28,3,-0.55,9,0
+Old Dominion @ North Texas: 38-45,-1,1.38,74,1
+UAB @ Southern Mississippi: 30-12,1,0.08,-70,0
+Southern Mississippi @ Louisiana Tech: 34-27,-1,0.72,-136,0
+UT San Antonio @ UTEP: 31-14,0,-1.04,-150,0
+Rice @ UT San Antonio: 7-20,-2,1.77,148,1
+UT San Antonio @ Florida International: 7-14,1,0.97,60,1
+Marshall @ Florida Atlantic: 25-30,-4,0.84,-28,1
+UTEP @ Middle Tennessee: 3-30,1,3.57,263,1
+Rice @ UTEP: 31-14,0,-2.5,-208,0
+Middle Tennessee @ Charlotte: 35-21,1,-0.61,-101,0
+Florida Atlantic @ Louisiana Tech: 48-23,-1,-2.97,97,0
+Southern Mississippi @ Rice: 43-34,0,-1.85,-136,0
+UAB @ UT San Antonio: 24-19,1,0.08,34,0
+Old Dominion @ Florida International: 37-30,2,-1.59,48,0
+Western Kentucky @ Marshall: 23-30,-1,-1.7,-34,1
+Middle Tennessee @ Western Kentucky: 38-41,1,0.73,107,1
+Rice @ Old Dominion: 21-24,-2,-0.04,29,1
+Rice @ UAB: 21-52,-3,-0.15,-24,1
+Charlotte @ Old Dominion: 0-6,-1,-0.59,95,1
+North Texas @ Louisiana Tech: 24-23,-1,-0.76,-100,0
+Army @ North Texas: 49-52,0,-0.93,-72,1
+Marshall @ UT San Antonio: 7-9,-1,-0.43,126,1
+Florida International @ Florida Atlantic: 24-52,1,3.32,269,1
+Charlotte @ Southern Mississippi: 21-66,-2,4.69,346,1
+Louisiana Tech @ UTEP: 42-21,1,-0.37,-136,0
+Western Kentucky @ Florida International: 17-41,-3,0.91,-28,1
+North Texas @ Rice: 30-14,0,-0.69,-101,0
+UTEP @ UAB: 7-28,-2,0.61,126,1
+Florida Atlantic @ Charlotte: 31-12,-2,-1.72,-308,0
+Southern Mississippi @ Marshall: 28-27,2,0.82,11,0
+Old Dominion @ Middle Tennessee: 10-41,2,2.24,281,1
+UT San Antonio @ Louisiana Tech: 6-20,0,1.77,93,1
+North Texas @ Florida Atlantic: 17-41,-1,3.33,196,1
+UMass @ Florida International: 45-63,-1,1.6,126,1
+UTEP @ North Texas: 10-45,0,2.77,241,1
+UAB vs Ohio: 6-41,0,-3.46,-106,1
+Akron @ Florida Atlantic: 3-50,0,4.25,436,1
+Middle Tennessee vs Arkansas State: 35-30,0,0.74,-110,0
+Troy vs North Texas: 50-30,3,-2.57,-140,0
+Marshall vs Colorado State: 31-28,-2,-3.01,-111,0
+Temple vs Florida International: 28-3,-2,2.35,148,0
+Louisiana Tech vs SMU: 51-10,6,-1.57,-63,0
+Western Kentucky vs Georgia State: 17-27,2,-0.18,-70,1
+Elon @ Toledo: 13-47,1,4.13,378,1
+Rhode Island @ Central Michigan: 27-30,-2,-0.72,107,1
+Hampton @ Ohio: 0-59,-1,3.9,312,1
+Buffalo @ Army: 17-21,-2,-3.42,27,1
+Austin Peay @ Miami (OH): 10-31,0,-1.03,13,1
+Eastern Illinois @ Northern Illinois: 10-38,0,3.66,312,1
+Howard @ Kent State: 31-38,0,-0.3,-33,1
+South Dakota @ Bowling Green: 35-27,3,-0.36,-48,0
+Arkansas-Pine Bluff @ Akron: 3-52,-2,3.78,296,1
+Toledo @ Nevada: 37-24,2,1.43,-40,0
+Colgate @ Buffalo: 10-33,0,-2.91,-263,1
+Idaho @ Western Michigan: 28-37,-2,-1.9,-52,1
+Tulsa @ Toledo: 51-54,1,4.06,131,1
+Cincinnati @ Miami (OH): 21-17,-1,-0.01,-70,0
+Ohio @ Eastern Michigan: 27-20,-1,-0.17,-18,0
+Miami (OH) @ Central Michigan: 31-14,2,-2.2,-49,0
+Akron @ Troy: 17-22,-2,2.05,126,1
+Wagner @ Western Michigan: 14-49,1,6.15,414,1
+Northern Illinois @ San Diego State: 28-34,-4,-0.33,-154,1
+Miami (OH) @ Notre Dame: 17-52,-2,2.73,126,1
+Ohio @ UMass: 58-50,2,-1.69,71,0
+Buffalo @ Kent State: 27-13,0,0.17,67,0
+Akron @ Bowling Green: 34-23,1,-0.85,15,0
+Ball State @ Western Michigan: 3-55,-2,3.21,176,1
+Eastern Michigan @ Toledo: 15-20,-2,0.34,93,1
+Central Michigan @ Ohio: 26-23,3,0.2,33,0
+Tennessee Tech @ Ball State: 13-28,1,2.06,111,1
+Bowling Green @ Miami (OH): 37-29,1,-0.5,107,0
+Ball State @ Akron: 3-31,-3,2.0,7,1
+Kent State @ Northern Illinois: 3-24,-1,1.51,135,1
+Western Michigan @ Buffalo: 71-68,0,0.75,38,0
+Miami (OH) @ Kent State: 14-17,-2,0.06,-7,1
+Eastern Michigan @ Army: 27-28,-1,-0.61,49,1
+Northern Illinois @ Buffalo: 14-13,-1,1.21,-58,0
+Ohio @ Bowling Green: 48-30,2,-2.09,-19,0
+Akron @ Western Michigan: 14-13,0,1.29,211,0
+Toledo @ Central Michigan: 30-10,2,-1.26,-155,0
+Buffalo @ Miami (OH): 14-24,-2,1.43,78,1
+Akron @ Toledo: 21-48,-1,3.61,293,1
+Central Michigan @ Ball State: 56-9,0,-3.92,-247,0
+Kent State @ Ohio: 3-48,-1,4.45,308,1
+Northern Illinois @ Bowling Green: 48-17,4,-1.01,-210,0
+Western Michigan @ Eastern Michigan: 20-17,1,-0.49,39,0
+Eastern Michigan @ Northern Illinois: 27-30,1,-0.01,-11,1
+Bowling Green @ Kent State: 44-16,4,-1.93,-117,0
+Toledo @ Ball State: 58-17,-1,-7.85,-293,0
+Miami (OH) @ Ohio: 28-45,-2,0.37,-5,1
+Central Michigan @ Western Michigan: 35-28,2,-1.21,-50,0
+Buffalo @ Akron: 20-21,0,1.39,-87,1
+Akron @ Miami (OH): 14-24,2,2.35,147,1
+Ball State @ Eastern Michigan: 14-56,-1,2.61,162,1
+Northern Illinois @ Toledo: 17-27,-1,2.3,97,1
+Bowling Green @ Buffalo: 28-38,-1,2.16,188,1
+Kent State @ Western Michigan: 20-48,-3,1.03,108,1
+Toledo @ Ohio: 10-38,1,2.04,216,1
+Central Michigan @ Kent State: 42-23,0,-2.07,44,0
+Ohio @ Akron: 34-37,-3,0.34,48,1
+Eastern Michigan @ Miami (OH): 27-24,0,-0.89,-62,0
+Eastern Michigan @ Central Michigan: 30-42,-4,1.16,4,1
+Western Michigan @ Northern Illinois: 31-35,2,0.68,-9,1
+Toledo @ Bowling Green: 66-37,1,-2.62,-246,0
+Buffalo @ Ball State: 40-24,0,-3.33,-228,0
+Ball State @ Northern Illinois: 17-63,0,2.92,188,1
+Bowling Green @ Eastern Michigan: 31-34,-1,-2.28,-75,1
+Kent State @ Akron: 14-24,-2,-0.61,-55,1
+Miami (OH) @ Ball State: 28-7,3,-0.28,118,0
+Western Michigan @ Toledo: 10-37,-1,2.21,180,1
+Northern Illinois @ Central Michigan: 24-31,-1,1.87,121,1
+Ohio @ Buffalo: 24-31,-2,0.44,-74,1
+Akron vs Toledo: 28-45,3,2.1,165,1
+Appalachian State vs Toledo: 34-0,-4,3.62,312,0
+Central Michigan vs Wyoming: 14-37,-8,-0.69,-89,1
+South Florida @ San José State: 42-22,3,-1.08,-161,0
+Hawai'i @ UMass: 38-35,1,-1.38,-90,0
+VMI @ Air Force: 0-62,-1,6.16,568,1
+Troy @ Boise State: 13-24,-1,1.28,142,1
+Cal Poly @ San José State: 13-34,-1,2.9,249,1
+Abilene Christian @ New Mexico: 14-38,-1,4.58,199,1
+UC Davis @ San Diego State: 17-38,-1,0.66,198,1
+Howard @ UNLV: 43-40,2,3.26,115,0
+Incarnate Word @ Fresno State: 0-66,-2,5.81,488,1
+Western Carolina @ Hawai'i: 18-41,-1,0.79,-29,1
+Idaho State @ Utah State: 13-51,0,2.97,293,1
+Abilene Christian @ Colorado State: 10-38,0,3.07,272,1
+Gardner-Webb @ Wyoming: 0-27,-1,3.24,198,1
+UNLV @ Idaho: 44-16,0,-2.85,-166,0
+New Mexico State @ New Mexico: 30-28,2,-0.29,-70,0
+New Mexico @ Boise State: 14-28,-2,1.04,-13,1
+Idaho State @ Nevada: 30-28,3,-0.49,40,0
+San Diego State @ Air Force: 28-24,0,-2.61,-114,0
+New Mexico @ Tulsa: 16-13,-2,-1.18,-160,0
+Utah State @ San José State: 61-10,2,-3.26,-427,0
+Hawai'i @ Wyoming: 21-28,-2,-0.17,-181,1
+BYU @ Utah State: 24-40,-6,-1.39,-108,1
+Texas State @ Wyoming: 10-45,-1,1.97,71,1
+Air Force @ New Mexico: 38-56,-2,5.29,113,1
+Nevada @ Fresno State: 21-41,0,2.74,190,1
+San José State @ UNLV: 13-41,-3,2.42,86,1
+Colorado State @ Hawai'i: 51-21,1,-2.81,-98,0
+Boise State @ BYU: 24-7,1,-0.51,-62,0
+San Diego State @ UNLV: 41-10,-1,-1.97,-191,0
+Air Force @ Navy: 45-48,-2,-0.55,-64,1
+Colorado State @ Utah State: 27-14,0,-2.77,-297,0
+Fresno State @ San José State: 27-10,4,-1.04,-143,0
+Wyoming @ Utah State: 28-23,4,0.05,70,0
+New Mexico @ Fresno State: 0-38,-1,4.11,204,1
+Nevada @ Colorado State: 42-44,1,0.84,44,1
+San José State @ Hawai'i: 26-37,-1,-1.11,-53,1
+Air Force @ Nevada: 45-42,-2,1.68,-167,0
+Colorado State @ New Mexico: 27-24,1,0.67,39,0
+Utah State @ UNLV: 52-28,1,-2.19,-128,0
+Wyoming @ Boise State: 14-24,-2,1.15,101,1
+Fresno State @ San Diego State: 27-3,1,-2.83,-120,0
+Air Force @ Colorado State: 45-28,2,1.94,-42,0
+San José State @ BYU: 20-41,-3,3.54,260,1
+New Mexico @ Wyoming: 3-42,-7,2.32,125,1
+UNLV @ Fresno State: 26-16,1,0.29,-36,0
+Hawai'i @ Nevada: 21-35,-1,0.17,89,1
+Boise State @ San Diego State: 31-14,1,-0.56,12,0
+UNLV @ Air Force: 30-34,2,-0.73,62,1
+San Diego State @ Hawai'i: 28-7,1,3.03,222,0
+Army @ Air Force: 21-0,0,-2.73,-208,0
+Utah State @ New Mexico: 24-10,2,-0.76,97,0
+Hawai'i @ UNLV: 23-31,1,0.31,12,1
+Nevada @ Boise State: 14-41,-3,2.37,177,1
+Colorado State @ Wyoming: 13-16,1,0.44,-51,1
+San Diego State @ San José State: 52-7,2,-3.66,-448,0
+BYU @ Fresno State: 13-20,-1,0.37,-26,1
+BYU @ UNLV: 31-21,2,0.03,22,0
+Boise State @ Utah State: 41-14,0,-2.17,-254,0
+San José State @ Nevada: 14-59,-5,2.2,139,1
+Wyoming @ Air Force: 28-14,2,0.61,149,0
+Fresno State @ Hawai'i: 31-21,0,-1.57,-129,0
+Boise State @ Colorado State: 59-52,0,-1.63,-71,0
+UNLV @ New Mexico: 38-35,1,0.51,-52,0
+Air Force @ Boise State: 19-44,-3,3.16,132,1
+Fresno State @ Wyoming: 13-7,1,0.15,-25,0
+Hawai'i @ Utah State: 0-38,0,4.17,157,1
+San José State @ Colorado State: 14-42,0,2.73,267,1
+Nevada @ San Diego State: 23-42,-1,0.82,46,1
+New Mexico @ San Diego State: 10-35,0,4.09,214,1
+Boise State @ Fresno State: 17-28,0,0.55,30,1
+UNLV @ Nevada: 16-23,1,2.09,87,1
+Wyoming @ San José State: 17-20,0,0.04,-37,1
+BYU @ Hawai'i: 30-20,-1,-0.39,-165,0
+Utah State @ Air Force: 35-38,0,-4.15,-81,1
+Fresno State @ Boise State: 14-17,-1,0.72,55,1
+New Mexico State vs Utah State: 26-20,-1,0.56,76,0
+San Diego State vs Army: 35-42,1,4.13,-166,1
+Fresno State vs Houston: 33-27,0,-0.7,-132,0
+Portland State @ BYU: 6-20,-1,2.83,145,1
+Fordham @ Army: 6-64,0,6.39,207,1
+Temple @ Notre Dame: 16-49,0,3.61,276,1
+UMass @ Coastal Carolina: 28-38,-2,-0.04,-40,1
+UMass @ Temple: 21-29,-1,-1.06,-71,1
+Army @ Tulane: 17-21,-2,1.83,-15,1
+Temple @ Army: 28-31,1,-1.72,-117,1
+Georgia Southern @ UMass: 20-55,-2,4.37,379,1
+BYU @ East Carolina: 17-33,0,0.51,-8,1
+Appalachian State @ UMass: 27-30,1,0.71,32,1
+Navy @ Notre Dame: 17-24,0,2.7,9,1
+UMass @ BYU: 16-10,4,-0.19,0,0
+Maine vs UMass: 31-44,-2,0.64,75,1
+Army vs Navy: 14-13,0,1.35,55,0
+Tennessee State @ Georgia State: 17-10,4,-0.47,-110,0
+Sacramento State @ Idaho: 6-28,3,2.55,170,1
+Louisiana Monroe @ Memphis: 29-37,-2,1.56,-9,1
+Southeastern Louisiana @ Louisiana: 48-51,-2,-0.35,-151,1
+Houston Baptist @ Texas State: 11-20,1,0.72,32,1
+Savannah State @ Appalachian State: 7-54,2,6.77,507,1
+New Hampshire vs Georgia Southern: 22-12,2,-1.04,45,0
+Louisiana @ Tulsa: 42-66,-1,-0.7,71,1
+Alabama State @ Troy: 7-34,1,5.08,446,1
+Arkansas-Pine Bluff @ Arkansas State: 3-48,-5,2.64,213,1
+Alabama A&M @ South Alabama: 0-45,-2,4.76,241,1
+Appalachian State @ Texas State: 20-13,0,0.38,102,0
+Troy @ New Mexico State: 27-24,0,0.06,-94,0
+Idaho @ South Alabama: 29-23,-1,-0.78,-69,0
+Louisiana Monroe @ Louisiana: 56-50,0,-1.66,-67,0
+Western Illinois @ Coastal Carolina: 52-10,4,-3.65,-203,0
+Arkansas State @ SMU: 21-44,-2,0.78,150,1
+Arkansas State @ Georgia Southern: 43-25,-1,-0.16,112,0
+Louisiana Monroe @ Texas State: 45-27,1,-1.52,-203,0
+New Mexico State @ Appalachian State: 31-45,-3,1.3,-107,1
+Coastal Carolina @ Louisiana Monroe: 43-51,-3,-0.57,-97,1
+Louisiana @ Idaho: 21-16,-1,-0.27,-18,0
+Georgia State @ Coastal Carolina: 27-21,-1,1.11,2,0
+South Alabama @ Troy: 19-8,3,0.96,75,0
+Texas State @ Louisiana: 7-24,-3,0.94,42,1
+Appalachian State @ Idaho: 23-20,0,0.56,36,0
+Georgia State @ Louisiana Monroe: 47-37,-1,2.99,239,0
+New Mexico State @ Georgia Southern: 35-27,-2,-1.72,-226,0
+Coastal Carolina @ Arkansas State: 17-51,-1,0.03,47,1
+Louisiana @ Arkansas State: 3-47,-1,3.37,301,1
+Coastal Carolina @ Appalachian State: 29-37,-2,0.06,115,1
+Troy @ Georgia State: 34-10,-1,-3.67,-150,0
+Georgia Southern @ Troy: 16-38,-1,3.48,74,1
+Louisiana Monroe @ Idaho: 23-31,-2,-1.23,15,1
+Texas State @ Coastal Carolina: 27-7,-1,-1.68,-324,0
+Louisiana Monroe @ South Alabama: 23-33,-1,0.48,63,1
+Arkansas State @ New Mexico State: 37-21,0,-1.66,-161,0
+South Alabama @ Georgia State: 13-21,-1,-0.01,-29,1
+Idaho @ Troy: 21-24,2,0.25,17,1
+Appalachian State @ Louisiana Monroe: 45-52,0,0.31,61,1
+Georgia State @ Georgia Southern: 21-17,2,-1.73,-32,0
+New Mexico State @ Texas State: 45-35,2,-1.26,-59,0
+Louisiana @ South Alabama: 19-14,2,-0.5,-6,0
+Georgia Southern @ Appalachian State: 6-27,0,3.49,223,1
+Georgia State @ Texas State: 33-30,-1,-1.67,-140,0
+Texas State @ Arkansas State: 12-30,-1,1.5,274,1
+Troy @ Coastal Carolina: 42-17,1,-1.55,-123,0
+Arkansas State @ South Alabama: 19-24,-5,-0.32,-25,1
+Coastal Carolina @ Idaho: 13-7,0,-0.4,-2,0
+New Mexico State @ Louisiana: 34-47,-3,-0.22,103,1
+South Alabama @ Georgia Southern: 0-52,-3,3.18,388,1
+Appalachian State @ Georgia State: 31-10,-1,-1.44,-138,0
+Arkansas State @ Louisiana Monroe: 67-50,3,-1.76,-191,0
+Texas State @ Troy: 9-62,-4,5.17,341,1
+Idaho @ New Mexico State: 10-17,-1,1.74,188,1
+Georgia Southern @ Louisiana: 34-24,3,1.63,-85,0
+Georgia Southern @ Coastal Carolina: 17-28,-1,2.01,81,1
+Idaho @ Georgia State: 24-10,4,-0.24,55,0
+Louisiana @ Appalachian State: 14-63,-3,2.64,239,1
+South Alabama @ New Mexico State: 17-22,-2,0.8,138,1
+Troy @ Arkansas State: 32-25,2,2.01,313,0
+Austin Peay @ Cincinnati: 14-26,-2,0.39,-65,1
+Holy Cross @ Connecticut: 20-27,1,0.16,-9,1
+Stony Brook @ South Florida: 17-31,-1,0.91,110,1
+James Madison @ East Carolina: 34-14,2,-4.94,-252,0
+Stephen F. Austin @ SMU: 14-58,-2,3.23,246,1
+Grambling @ Tulane: 14-43,-1,2.7,256,1
+Tulane @ Navy: 21-23,2,0.65,64,1
+Villanova @ Temple: 13-16,-1,0.12,-49,1
+Cincinnati @ Navy: 32-42,0,1.93,183,1
+Southern Illinois @ Memphis: 31-44,-1,1.87,71,1
+East Carolina @ Connecticut: 41-38,1,0.81,0,0
+South Florida @ East Carolina: 61-31,1,-3.05,-161,0
+Houston @ Temple: 20-13,2,-1.69,-64,0
+Navy @ Tulsa: 31-21,-1,-1.06,-167,0
+Connecticut @ SMU: 28-49,-1,-0.03,98,1
+Memphis @ UCF: 13-40,-3,2.11,207,1
+Memphis @ Connecticut: 70-31,3,-0.2,-234,0
+UCF @ Cincinnati: 51-23,1,-6.95,-124,0
+Tulsa @ Tulane: 28-62,-2,-0.72,241,1
+Temple @ South Florida: 7-43,-4,3.45,323,1
+Temple @ East Carolina: 34-10,0,-1.67,-236,0
+SMU @ Houston: 22-35,0,0.41,-81,1
+Houston @ Tulsa: 17-45,-2,1.27,12,1
+Cincinnati @ South Florida: 3-33,-2,0.94,129,1
+East Carolina @ UCF: 21-63,0,3.3,256,1
+Navy @ Memphis: 27-30,-4,1.36,63,1
+Connecticut @ Temple: 28-24,0,1.93,229,0
+Memphis @ Houston: 42-38,1,-0.76,53,0
+South Florida @ Tulane: 34-28,0,-0.36,-90,0
+UCF @ Navy: 31-21,2,-1.58,-64,0
+Tulsa @ Connecticut: 14-20,-1,-0.08,-12,1
+SMU @ Cincinnati: 31-28,1,0.32,3,0
+Tulane @ Memphis: 26-56,0,4.93,232,1
+Tulsa @ SMU: 34-38,-1,3.21,123,1
+Houston @ South Florida: 28-24,-1,-0.47,65,0
+Austin Peay @ UCF: 33-73,-2,1.71,137,1
+Navy @ Temple: 26-34,0,1.68,31,1
+Memphis @ Tulsa: 41-14,1,-2.23,-222,0
+UCF @ SMU: 31-24,-2,-2.6,-126,0
+East Carolina @ Houston: 27-52,-3,4.69,-32,1
+South Florida @ Connecticut: 37-20,-1,-3.12,-278,0
+Cincinnati @ Tulane: 17-16,0,-1.8,-128,0
+Temple @ Cincinnati: 35-24,-1,-0.25,-24,0
+SMU @ Navy: 40-43,0,0.67,133,1
+Tulane @ East Carolina: 31-24,-2,-1.62,-57,0
+Tulsa @ South Florida: 20-27,2,1.47,64,1
+UCF @ Temple: 45-19,5,-0.49,13,0
+SMU @ Memphis: 45-66,0,2.35,187,1
+Cincinnati @ East Carolina: 20-48,-1,1.79,252,1
+Houston @ Tulane: 17-20,-1,-1.75,-28,1
+Temple @ Tulsa: 43-22,3,-2.1,-82,0
+Memphis @ UCF: 55-62,2,0.73,-27,1
+South Florida @ UCF: 42-49,-1,-1.43,-120,1
+Navy @ Houston: 14-24,1,2.16,89,1
+East Carolina @ Memphis: 13-70,-3,7.84,169,1
+Connecticut @ Cincinnati: 21-22,0,1.84,-114,1
+Tulane @ SMU: 38-41,2,0.69,-7,1
+Connecticut @ UCF: 24-49,-1,1.68,106,1
