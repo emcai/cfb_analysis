@@ -1,0 +1,846 @@
+team1,t1pyth,team2,t2pyth
+Wake Forest,0.246,Tulane,0.754
+Albany,0.766,Pittsburgh,0.234
+North Carolina,0.033,California,0.967
+Richmond,0.007,Virginia,0.993
+Florida State,0.027,Notre Dame,0.973
+Clemson,0.962,Boston College,0.038
+Louisville,0.003,Alabama,0.997
+Miami,0.169,LSU,0.831
+Virginia Tech,0.985,Florida State,0.015
+Duke,0.784,Northwestern,0.216
+Georgia Tech,0.72,South Florida,0.28
+Army,0.053,Duke,0.947
+Syracuse,0.08,Western Michigan,0.92
+James Madison,0.353,NC State,0.647
+Alcorn State,0.002,Georgia Tech,0.998
+UMass,0.001,Boston College,0.999
+Wagner,0.007,Syracuse,0.993
+North Carolina,0.164,East Carolina,0.836
+Savannah State,0.0,Miami,1.0
+Clemson,0.715,Texas A&M,0.285
+Georgia State,0.026,NC State,0.974
+Towson,0.089,Wake Forest,0.911
+Holy Cross,0.0,Boston College,1.0
+William & Mary,0.001,Virginia Tech,0.999
+Samford,0.055,Florida State,0.945
+Boston College,0.94,Wake Forest,0.06
+Georgia Southern,0.003,Clemson,0.997
+Miami,0.899,Toledo,0.101
+Florida State,0.024,Syracuse,0.976
+Georgia Tech,0.19,Pittsburgh,0.81
+Duke,0.831,Baylor,0.169
+Ohio,0.04,Virginia,0.96
+Western Kentucky,0.736,Louisville,0.264
+Boston College,0.009,Purdue,0.991
+Louisville,0.004,Virginia,0.996
+Notre Dame,0.966,Wake Forest,0.034
+Pittsburgh,0.146,North Carolina,0.854
+Clemson,0.982,Georgia Tech,0.018
+Florida International,0.022,Miami,0.978
+North Carolina Central,0.006,Duke,0.994
+Northern Illinois,0.559,Florida State,0.441
+Virginia Tech,0.146,Old Dominion,0.854
+Connecticut,0.003,Syracuse,0.997
+NC State,0.986,Marshall,0.014
+North Carolina,0.001,Miami,0.999
+Bowling Green,0.0,Georgia Tech,1.0
+Syracuse,0.382,Clemson,0.618
+Virginia,0.033,NC State,0.967
+Temple,0.486,Boston College,0.514
+Rice,0.044,Wake Forest,0.956
+Pittsburgh,0.004,UCF,0.996
+Florida State,0.895,Louisville,0.105
+Virginia Tech,0.927,Duke,0.073
+Virginia,0.117,Indiana,0.883
+Penn State,0.921,Pittsburgh,0.079
+Syracuse,0.172,Pittsburgh,0.828
+Georgia Tech,0.981,Louisville,0.019
+Boston College,0.73,NC State,0.27
+Clemson,1.0,Wake Forest,0.0
+Notre Dame,0.834,Virginia Tech,0.166
+Florida State,0.058,Miami,0.942
+Duke,0.415,Georgia Tech,0.585
+Virginia Tech,0.035,North Carolina,0.965
+Louisville,0.074,Boston College,0.926
+Pittsburgh,0.535,Notre Dame,0.465
+Virginia,0.9,Duke,0.1
+Miami,0.034,Boston College,0.966
+Miami,0.893,Virginia,0.107
+Pittsburgh,0.857,Virginia,0.143
+Wake Forest,0.357,NC State,0.643
+Louisville,0.082,Syracuse,0.918
+Georgia Tech,0.019,Georgia,0.981
+Georgia Tech,0.74,Virginia Tech,0.26
+North Carolina,0.173,Syracuse,0.827
+Syracuse,0.993,Boston College,0.007
+Pittsburgh,0.982,Wake Forest,0.018
+Florida,0.998,Florida State,0.002
+Wake Forest,0.022,Florida State,0.978
+NC State,0.009,Clemson,0.991
+Wake Forest,0.944,Louisville,0.056
+Marshall,0.064,Virginia Tech,0.936
+Wake Forest,1.0,Duke,0.0
+East Carolina,0.0,NC State,1.0
+NC State,0.3,North Carolina,0.7
+Louisville,0.0,Clemson,1.0
+Georgia Tech,0.931,North Carolina,0.069
+North Carolina,0.211,Virginia,0.789
+NC State,0.227,Syracuse,0.773
+Virginia,0.487,Virginia Tech,0.513
+Clemson,0.995,Florida State,0.005
+North Carolina,0.815,Duke,0.185
+Clemson,0.999,Pittsburgh,0.001
+Liberty,0.027,Virginia,0.973
+Syracuse,0.002,Notre Dame,0.998
+Duke,0.111,Pittsburgh,0.889
+Western Carolina,0.058,North Carolina,0.942
+Pittsburgh,0.062,Miami,0.938
+Virginia Tech,0.0,Pittsburgh,1.0
+Virginia,0.653,Georgia Tech,0.347
+Boston College,0.713,Virginia Tech,0.287
+Florida State,0.232,NC State,0.768
+Miami,0.943,Virginia Tech,0.057
+Kentucky,0.863,Louisville,0.137
+Boston College,0.129,Florida State,0.871
+South Carolina,0.173,Clemson,0.827
+Duke,0.018,Clemson,0.982
+Duke,0.203,Miami,0.797
+Miami,0.112,Georgia Tech,0.888
+Missouri State,0.001,Oklahoma State,0.999
+Florida Atlantic,0.0,Oklahoma,1.0
+Southern,0.0,TCU,1.0
+Ole Miss,0.895,Texas Tech,0.105
+West Virginia,0.978,Tennessee,0.022
+South Dakota,0.893,Kansas State,0.107
+Texas,0.047,Maryland,0.953
+Nicholls,0.704,Kansas,0.296
+Abilene Christian,0.035,Baylor,0.965
+TCU,0.817,SMU,0.183
+Mississippi State,0.996,Kansas State,0.004
+UCLA,0.179,Oklahoma,0.821
+Kansas,0.998,Central Michigan,0.002
+Lamar,0.0,Texas Tech,1.0
+Oklahoma,0.761,Texas Tech,0.239
+Rutgers,0.0,Kansas,1.0
+Oklahoma,0.695,Iowa State,0.305
+Boise State,0.062,Oklahoma State,0.938
+UT San Antonio,0.057,Kansas State,0.943
+Houston,0.494,Texas Tech,0.506
+Ohio State,0.93,TCU,0.07
+USC,0.301,Texas,0.699
+Akron,0.232,Iowa State,0.768
+Texas,0.584,Texas Tech,0.416
+Kansas State,0.41,West Virginia,0.59
+Kansas,0.049,Baylor,0.951
+TCU,0.021,Texas,0.979
+Army,0.031,Oklahoma,0.969
+Texas Tech,0.878,Oklahoma State,0.122
+Iowa State,0.068,Iowa,0.932
+Youngstown State,0.004,West Virginia,0.996
+Baylor,0.971,UT San Antonio,0.029
+Tulsa,0.047,Texas,0.953
+South Alabama,0.009,Oklahoma State,0.991
+Oklahoma State,0.968,Kansas,0.032
+West Virginia,0.982,Texas Tech,0.018
+Texas,0.87,Kansas State,0.13
+Baylor,0.001,Oklahoma,0.999
+Iowa State,0.611,TCU,0.389
+Kansas,0.086,West Virginia,0.914
+Texas,0.337,Oklahoma,0.663
+Iowa State,0.806,Oklahoma State,0.194
+Texas Tech,0.715,TCU,0.285
+Oklahoma State,0.028,Kansas State,0.972
+Baylor,0.0,West Virginia,1.0
+Kansas State,0.316,Baylor,0.684
+Baylor,0.25,Texas,0.75
+Oklahoma,0.768,West Virginia,0.232
+Drake,0.763,Iowa State,0.237
+Texas,0.21,Kansas,0.79
+Kansas,0.049,Texas Tech,0.951
+Baylor,0.772,Texas Tech,0.228
+Texas,0.215,Oklahoma,0.785
+West Virginia,0.004,Iowa State,0.996
+Oklahoma,0.99,TCU,0.01
+Kansas,0.119,Kansas State,0.881
+TCU,0.006,West Virginia,0.994
+Oklahoma State,0.744,Baylor,0.256
+Texas Tech,0.031,Iowa State,0.969
+Texas,0.158,Oklahoma State,0.842
+TCU,0.757,Kansas,0.243
+Kansas State,0.0,Oklahoma,1.0
+Kansas State,0.074,TCU,0.926
+Texas Tech,0.007,Kansas State,0.993
+Oklahoma State,0.045,Oklahoma,0.955
+West Virginia,0.648,Texas,0.352
+Baylor,0.722,Iowa State,0.278
+West Virginia,0.836,Oklahoma State,0.164
+Oklahoma State,0.017,TCU,0.983
+Kansas,0.819,Oklahoma,0.181
+Iowa State,0.011,Texas,0.989
+Kansas State,0.304,Iowa State,0.696
+New Mexico State,0.01,Minnesota,0.99
+Northwestern,0.697,Purdue,0.303
+Northern Illinois,0.029,Iowa,0.971
+Appalachian State,0.304,Penn State,0.696
+Indiana,0.965,Florida International,0.035
+Michigan,0.231,Notre Dame,0.769
+New Mexico,0.001,Wisconsin,0.999
+Western Michigan,0.001,Michigan,0.999
+Eastern Michigan,0.39,Purdue,0.61
+Rutgers,0.0,Ohio State,1.0
+Colorado,0.402,Nebraska,0.598
+Maryland,0.999,Bowling Green,0.001
+Fresno State,0.322,Minnesota,0.678
+Western Illinois,0.044,Illinois,0.956
+Michigan State,0.365,Arizona State,0.635
+Ball State,0.137,Indiana,0.863
+Temple,0.977,Maryland,0.023
+Troy,0.39,Nebraska,0.61
+Kent State,0.0,Penn State,1.0
+BYU,0.592,Wisconsin,0.408
+Miami (OH),0.078,Minnesota,0.922
+SMU,0.044,Michigan,0.956
+South Florida,0.935,Illinois,0.065
+Northern Iowa,0.007,Iowa,0.993
+Missouri,0.151,Purdue,0.849
+Akron,0.726,Northwestern,0.274
+Penn State,0.965,Illinois,0.035
+Utah State,0.122,Michigan State,0.878
+Western Kentucky,0.011,Wisconsin,0.989
+Texas State,0.034,Rutgers,0.966
+Kent State,0.101,Illinois,0.899
+Oregon State,0.011,Ohio State,0.989
+Nebraska,0.001,Michigan,0.999
+Tulane,0.006,Ohio State,0.994
+Michigan State,0.311,Indiana,0.689
+Wisconsin,0.906,Iowa,0.094
+Minnesota,0.0,Maryland,1.0
+Central Michigan,0.078,Michigan State,0.922
+Indiana,0.606,Rutgers,0.394
+Buffalo,0.802,Rutgers,0.198
+Michigan,0.95,Northwestern,0.05
+Purdue,0.406,Nebraska,0.594
+Illinois,0.983,Rutgers,0.017
+Ohio State,0.102,Penn State,0.898
+Iowa,0.944,Minnesota,0.056
+Northwestern,0.17,Michigan State,0.83
+Indiana,0.163,Ohio State,0.837
+Maryland,0.016,Michigan,0.984
+Nebraska,0.427,Wisconsin,0.573
+Nebraska,0.253,Northwestern,0.747
+Minnesota,0.023,Ohio State,0.977
+Rutgers,0.0,Maryland,1.0
+Purdue,0.995,Illinois,0.005
+Iowa,0.975,Indiana,0.025
+Indiana,0.108,Minnesota,0.892
+Northwestern,0.966,Minnesota,0.034
+Michigan State,0.222,Penn State,0.778
+Nebraska,0.178,Iowa,0.822
+Michigan,0.972,Michigan State,0.028
+Rutgers,0.307,Wisconsin,0.693
+Purdue,0.391,Indiana,0.609
+Michigan State,0.986,Maryland,0.014
+Bethune-Cookman,0.02,Nebraska,0.98
+Minnesota,0.026,Nebraska,0.974
+Penn State,0.886,Rutgers,0.114
+Wisconsin,0.016,Michigan,0.984
+Maryland,0.024,Iowa,0.976
+Northwestern,0.386,Rutgers,0.614
+Illinois,0.001,Wisconsin,0.999
+Penn State,0.659,Indiana,0.341
+Wisconsin,0.467,Northwestern,0.533
+Illinois,0.004,Nebraska,0.996
+Michigan,0.006,Ohio State,0.994
+Purdue,0.07,Michigan State,0.93
+Nebraska,0.616,Ohio State,0.384
+Ohio State,0.892,Michigan State,0.108
+Maryland,0.135,Indiana,0.865
+Ohio State,0.127,Maryland,0.873
+Northwestern,0.031,Ohio State,0.969
+Ohio State,0.066,Purdue,0.934
+Michigan State,0.494,Nebraska,0.506
+Illinois,0.371,Northwestern,0.629
+Purdue,0.017,Minnesota,0.983
+Maryland,0.009,Penn State,0.991
+Minnesota,0.949,Wisconsin,0.051
+Michigan,0.991,Rutgers,0.009
+Iowa,0.597,Purdue,0.403
+Illinois,0.005,Maryland,0.995
+Minnesota,0.012,Illinois,0.988
+Iowa,0.29,Penn State,0.71
+Penn State,0.002,Michigan,0.998
+Northwestern,0.185,Iowa,0.815
+Iowa,0.999,Illinois,0.001
+Wisconsin,0.903,Purdue,0.097
+Indiana,0.035,Michigan,0.965
+Notre Dame,0.919,Northwestern,0.081
+Rutgers,0.139,Michigan State,0.861
+Northwestern State,0.004,Texas A&M,0.996
+Coastal Carolina,0.002,South Carolina,0.998
+Austin Peay,0.001,Georgia,0.999
+Central Michigan,0.618,Kentucky,0.382
+Washington,0.169,Auburn,0.831
+UT Martin,0.004,Missouri,0.996
+Eastern Illinois,0.001,Arkansas,0.999
+Auburn,0.035,Georgia,0.965
+Alabama,0.997,LSU,0.003
+Ole Miss,0.82,Vanderbilt,0.18
+LSU,0.948,Arkansas,0.052
+Charleston Southern,0.001,Florida,0.999
+Middle Tennessee,0.013,Vanderbilt,0.987
+Stephen F. Austin,0.0,Mississippi State,1.0
+Nevada,0.003,Vanderbilt,0.997
+Georgia,0.954,South Carolina,0.046
+Southern Illinois,0.004,Ole Miss,0.996
+East Tennessee State,0.0,Tennessee,1.0
+Southeastern Louisiana,0.003,LSU,0.997
+Wyoming,0.007,Missouri,0.993
+Alabama State,0.001,Auburn,0.999
+Kentucky,0.914,Florida,0.086
+Middle Tennessee,0.001,Georgia,0.999
+UTEP,0.007,Tennessee,0.993
+Murray State,0.008,Kentucky,0.992
+Vanderbilt,0.094,Notre Dame,0.906
+LSU,0.862,Auburn,0.138
+Colorado State,0.004,Florida,0.996
+North Texas,0.995,Arkansas,0.005
+Alabama,0.993,Ole Miss,0.007
+Louisiana,0.005,Mississippi State,0.995
+Louisiana Monroe,0.016,Texas A&M,0.984
+Georgia,0.979,Missouri,0.021
+Kent State,0.002,Ole Miss,0.998
+Arkansas,0.426,Colorado State,0.574
+Texas A&M,0.004,Alabama,0.996
+South Carolina,0.956,Vanderbilt,0.044
+Mississippi State,0.101,Kentucky,0.899
+Louisiana Tech,0.244,LSU,0.756
+Arkansas,0.177,Auburn,0.823
+Florida,0.999,Tennessee,0.001
+Louisiana,0.0,Alabama,1.0
+Arkansas,0.294,Texas A&M,0.706
+Tennessee State,0.112,Vanderbilt,0.888
+Tennessee,0.014,Georgia,0.986
+Florida,0.802,Mississippi State,0.198
+Southern Mississippi,0.026,Auburn,0.974
+South Carolina,0.042,Kentucky,0.958
+Ole Miss,0.029,LSU,0.971
+Alabama,1.0,Arkansas,0.0
+Missouri,0.657,South Carolina,0.343
+Louisiana Monroe,0.0,Ole Miss,1.0
+LSU,0.055,Florida,0.945
+Vanderbilt,0.01,Georgia,0.99
+Tennessee,0.91,Auburn,0.09
+Florida,0.51,Vanderbilt,0.49
+Texas A&M,0.958,South Carolina,0.042
+Georgia,0.002,LSU,0.998
+Missouri,0.0,Alabama,1.0
+Ole Miss,0.886,Arkansas,0.114
+Tulsa,0.219,Arkansas,0.781
+Auburn,0.802,Ole Miss,0.198
+Kentucky,0.208,Texas A&M,0.792
+Auburn,0.07,Mississippi State,0.93
+Middle Tennessee,0.113,Kentucky,0.887
+Akron,0.09,South Carolina,0.91
+Texas A&M,0.015,Mississippi State,0.985
+Mississippi State,0.998,Ole Miss,0.002
+South Carolina,0.151,Florida,0.849
+Memphis,0.001,Missouri,0.999
+Vanderbilt,0.881,Missouri,0.119
+Idaho,0.001,Florida,0.999
+Arkansas,0.005,Missouri,0.995
+Vanderbilt,0.783,Arkansas,0.217
+Texas A&M,0.263,Auburn,0.737
+Tennessee,0.273,South Carolina,0.727
+Arkansas,0.001,Mississippi State,0.999
+Ole Miss,0.563,Texas A&M,0.437
+South Carolina,0.645,Ole Miss,0.355
+Alabama,0.1,Georgia,0.9
+Mississippi State,0.085,LSU,0.915
+Vanderbilt,0.473,Kentucky,0.527
+Florida,0.003,Georgia,0.997
+Auburn,0.004,Alabama,0.996
+Mississippi State,0.245,Alabama,0.755
+Tennessee,0.023,Vanderbilt,0.977
+Charlotte,0.273,Tennessee,0.727
+Kentucky,0.007,Tennessee,0.993
+Kentucky,0.67,Missouri,0.33
+Missouri,0.985,Tennessee,0.015
+Missouri,0.888,Florida,0.112
+UMass,0.003,Georgia,0.997
+Liberty,0.0,Auburn,1.0
+Alabama,0.982,Tennessee,0.018
+LSU,0.486,Texas A&M,0.514
+UAB,0.011,Texas A&M,0.989
+Rice,0.004,LSU,0.996
+Chattanooga,0.002,South Carolina,0.998
+Louisiana Tech,0.001,Mississippi State,0.999
+Weber State,0.004,Utah,0.996
+San Diego State,0.087,Stanford,0.913
+Colorado,0.995,Colorado State,0.005
+Washington State,0.801,Wyoming,0.199
+UNLV,0.053,USC,0.947
+UCLA,0.021,Oregon,0.979
+Cincinnati,0.317,UCLA,0.683
+Bowling Green,0.029,Oregon,0.971
+Stanford,0.128,Washington,0.872
+Arizona,0.001,Washington State,0.999
+USC,0.916,Oregon State,0.084
+Arizona State,0.6,Oregon,0.4
+UT San Antonio,0.0,Arizona State,1.0
+BYU,0.691,Arizona,0.309
+Arizona,0.027,Houston,0.973
+Portland State,0.004,Oregon,0.996
+North Dakota,0.005,Washington,0.995
+USC,0.977,Stanford,0.023
+California,0.684,BYU,0.316
+San José State,0.006,Washington State,0.994
+UC Davis,0.068,Stanford,0.932
+San José State,0.099,Oregon,0.901
+New Hampshire,0.002,Colorado,0.998
+Utah,0.902,Northern Illinois,0.098
+Southern Utah,0.057,Oregon State,0.943
+Arizona,0.996,Oregon State,0.004
+Idaho State,0.122,California,0.878
+Oregon State,0.366,Nevada,0.634
+Eastern Washington,0.001,Washington State,0.999
+Washington,0.954,Utah,0.046
+Fresno State,0.945,UCLA,0.055
+Arizona State,0.55,San Diego State,0.45
+Southern Utah,0.003,Arizona,0.997
+Washington State,0.492,USC,0.508
+Stanford,0.938,Oregon,0.062
+Arizona State,0.064,Washington,0.936
+Oregon State,0.018,Stanford,0.982
+UCLA,0.04,Colorado,0.96
+California,0.055,Washington State,0.945
+Utah,0.145,Washington State,0.855
+Stanford,0.005,Notre Dame,0.995
+BYU,0.006,Washington,0.994
+Oregon State,0.014,Arizona State,0.986
+Oregon,0.995,California,0.005
+Arizona State,0.218,Colorado,0.782
+Washington,0.357,UCLA,0.643
+Washington State,0.805,Oregon State,0.195
+California,0.67,Arizona,0.33
+Utah,0.981,Stanford,0.019
+Arizona,0.042,Utah,0.958
+California,0.466,USC,0.534
+Washington,0.583,Oregon,0.417
+Washington,0.12,California,0.88
+UCLA,0.968,California,0.032
+Washington,0.992,Washington State,0.008
+Colorado,0.162,USC,0.838
+Stanford,0.694,Arizona State,0.306
+Colorado,0.016,Arizona,0.984
+Utah,0.025,Washington,0.975
+California,0.998,Oregon State,0.002
+Utah,0.987,UCLA,0.013
+Colorado,0.271,Washington,0.729
+Washington State,0.85,Stanford,0.15
+Oregon,0.998,Oregon State,0.002
+Stanford,0.846,California,0.154
+Utah,0.998,Colorado,0.002
+UCLA,0.507,Arizona State,0.493
+Oregon,0.655,Washington State,0.345
+USC,0.006,Utah,0.994
+Arizona State,0.468,USC,0.532
+Stanford,0.67,UCLA,0.33
+Arizona,0.359,UCLA,0.641
+Oregon State,0.022,Colorado,0.978
+Arizona State,0.687,Arizona,0.313
+Washington State,0.976,Colorado,0.024
+Utah,0.006,Arizona State,0.994
+Colorado,0.026,California,0.974
+USC,0.293,UCLA,0.707
+Notre Dame,0.82,USC,0.18
+Oregon State,0.006,Washington,0.994
+BYU,0.568,Utah,0.432
+Oregon,0.103,Utah,0.897
+Prairie View,0.405,Rice,0.595
+Houston,0.951,Rice,0.049
+Marshall,0.385,Miami (OH),0.615
+Old Dominion,0.002,Liberty,0.998
+Jackson State,0.008,Southern Mississippi,0.992
+Louisiana Tech,0.924,South Alabama,0.076
+Northern Arizona,0.973,UTEP,0.027
+SMU,0.037,North Texas,0.963
+Fordham,0.015,Charlotte,0.985
+Southern Mississippi,0.265,UAB,0.735
+Air Force,0.039,Florida Atlantic,0.961
+Appalachian State,0.997,Charlotte,0.003
+Eastern Kentucky,0.009,Marshall,0.991
+Southern,0.003,Louisiana Tech,0.997
+Louisiana Monroe,0.805,Southern Mississippi,0.195
+UAB,0.083,Coastal Carolina,0.917
+UT Martin,0.033,Middle Tennessee,0.967
+Incarnate Word,0.002,North Texas,0.998
+Maine,0.194,Western Kentucky,0.806
+Florida International,0.332,Old Dominion,0.668
+UTEP,0.003,UNLV,0.997
+Rice,0.064,Hawai'i,0.936
+Old Dominion,0.363,Charlotte,0.637
+Tulane,0.111,UAB,0.889
+Bethune-Cookman,0.077,Florida Atlantic,0.923
+UMass,0.064,Florida International,0.936
+Florida Atlantic,0.009,UCF,0.991
+Western Kentucky,0.58,Ball State,0.42
+Charlotte,0.25,UMass,0.75
+Texas State,0.162,UT San Antonio,0.838
+New Mexico State,0.751,UTEP,0.249
+North Texas,0.988,Liberty,0.012
+Charlotte,0.015,UAB,0.985
+UTEP,0.242,UT San Antonio,0.758
+Florida Atlantic,0.465,Middle Tennessee,0.535
+Arkansas-Pine Bluff,0.0,Florida International,1.0
+Marshall,0.52,Western Kentucky,0.48
+Louisiana Tech,0.601,North Texas,0.399
+Middle Tennessee,0.945,Marshall,0.055
+Savannah State,0.003,UAB,0.997
+UAB,0.016,Louisiana Tech,0.984
+Old Dominion,0.007,Florida Atlantic,0.993
+UT San Antonio,0.949,Rice,0.051
+North Texas,0.787,UTEP,0.213
+Louisiana Tech,0.711,UT San Antonio,0.289
+Louisiana Tech,0.706,Florida Atlantic,0.294
+UAB,0.99,Rice,0.01
+Southern Mississippi,0.047,North Texas,0.953
+Western Kentucky,0.008,Charlotte,0.992
+Middle Tennessee,0.108,Florida International,0.892
+Marshall,0.951,Old Dominion,0.049
+Charlotte,0.939,Middle Tennessee,0.061
+Western Kentucky,0.04,Middle Tennessee,0.96
+Marshall,0.368,Florida International,0.632
+Florida Atlantic,0.006,Marshall,0.994
+UAB,0.928,UTEP,0.072
+UTEP,0.216,Louisiana Tech,0.784
+Western Kentucky,0.13,Louisiana Tech,0.87
+Florida International,0.882,Western Kentucky,0.118
+UAB,0.254,Middle Tennessee,0.746
+Old Dominion,0.016,Rice,0.984
+UT San Antonio,0.104,Southern Mississippi,0.896
+Rice,0.002,Florida International,0.998
+VMI,0.001,Old Dominion,0.999
+UAB,0.001,Middle Tennessee,0.999
+Southern Mississippi,0.666,Charlotte,0.334
+Florida Atlantic,0.207,North Texas,0.793
+Old Dominion,0.206,Western Kentucky,0.794
+Marshall,0.212,Southern Mississippi,0.788
+Charlotte,0.117,Marshall,0.883
+Florida International,0.945,Charlotte,0.055
+Southern Mississippi,0.999,UTEP,0.001
+Middle Tennessee,0.946,Old Dominion,0.054
+UT San Antonio,0.0,Marshall,1.0
+UTEP,0.393,Rice,0.607
+Middle Tennessee,0.956,UTEP,0.044
+Rice,0.015,North Texas,0.985
+Louisiana Tech,0.758,Southern Mississippi,0.242
+North Texas,0.291,Old Dominion,0.709
+North Texas,0.811,UT San Antonio,0.189
+North Texas,0.573,UAB,0.427
+Western Kentucky,0.027,Florida Atlantic,0.973
+Florida Atlantic,0.999,Florida International,0.001
+Rice,0.124,Louisiana Tech,0.876
+Florida International,0.999,UT San Antonio,0.001
+UTEP,0.051,Western Kentucky,0.949
+UT San Antonio,0.0,UAB,1.0
+Central Connecticut,0.003,Ball State,0.997
+Monmouth,0.028,Eastern Michigan,0.972
+Delaware State,0.003,Buffalo,0.997
+VMI,0.0,Toledo,1.0
+Morgan State,0.009,Akron,0.991
+Buffalo,0.875,Temple,0.125
+Ball State,0.171,Notre Dame,0.829
+Howard,0.012,Kent State,0.988
+Central Michigan,0.258,Northern Illinois,0.742
+Eastern Kentucky,0.673,Bowling Green,0.327
+Eastern Michigan,0.224,Buffalo,0.776
+Delaware State,0.0,Western Michigan,1.0
+Ohio,0.121,Cincinnati,0.879
+Nevada,0.493,Toledo,0.507
+Western Michigan,0.995,Georgia State,0.005
+Miami (OH),0.875,Bowling Green,0.125
+Maine,0.685,Central Michigan,0.315
+Eastern Michigan,0.16,San Diego State,0.84
+Army,0.553,Buffalo,0.447
+UMass,0.032,Ohio,0.968
+Kent State,0.038,Ball State,0.962
+Western Michigan,0.59,Miami (OH),0.41
+Northern Illinois,0.262,Eastern Michigan,0.738
+Howard,0.185,Ohio,0.815
+Toledo,0.023,Fresno State,0.977
+Buffalo,0.987,Central Michigan,0.013
+Eastern Michigan,0.5,Western Michigan,0.5
+Northern Illinois,0.573,Ball State,0.427
+Ohio,0.197,Kent State,0.803
+Miami (OH),0.995,Akron,0.005
+Bowling Green,0.502,Toledo,0.498
+Akron,0.034,Buffalo,0.966
+Ball State,0.001,Ohio,0.999
+Toledo,0.039,Eastern Michigan,0.961
+Kent State,0.024,Miami (OH),0.976
+Ball State,0.113,Central Michigan,0.887
+Ohio,0.036,Northern Illinois,0.964
+Western Michigan,0.484,Bowling Green,0.516
+Buffalo,0.77,Toledo,0.23
+Toledo,0.897,Western Michigan,0.103
+Kent State,0.727,Bowling Green,0.273
+Miami (OH),0.087,Buffalo,0.913
+Kent State,0.013,Buffalo,0.987
+Ohio,0.569,Miami (OH),0.431
+Toledo,0.55,Northern Illinois,0.45
+Western Michigan,0.856,Ball State,0.144
+Buffalo,0.0,Ohio,1.0
+Toledo,0.842,Kent State,0.158
+Ball State,0.019,Miami (OH),0.981
+Northern Illinois,0.392,Buffalo,0.608
+Ball State,0.058,Toledo,0.942
+Northern Illinois,0.025,Western Michigan,0.975
+Buffalo,0.955,Bowling Green,0.045
+Ohio,1.0,Western Michigan,0.0
+Bowling Green,0.003,Ohio,0.997
+Northern Illinois,0.835,Akron,0.165
+Akron,0.158,Ohio,0.842
+Eastern Michigan,0.725,Ball State,0.275
+Eastern Michigan,0.717,Kent State,0.283
+Western Michigan,0.99,Central Michigan,0.01
+Akron,0.0,Eastern Michigan,1.0
+Akron,0.189,Kent State,0.811
+Central Michigan,0.083,Toledo,0.917
+Army,0.836,Eastern Michigan,0.164
+Northern Illinois,0.305,BYU,0.695
+Central Michigan,0.807,Akron,0.193
+Bowling Green,0.931,Central Michigan,0.069
+Bowling Green,0.618,Akron,0.382
+Miami (OH),0.63,Army,0.37
+Hawai'i,0.327,Colorado State,0.673
+Wyoming,0.988,New Mexico State,0.012
+UC Davis,0.948,San José State,0.052
+Portland State,0.001,Nevada,0.999
+Stony Brook,0.009,Air Force,0.991
+San Diego State,0.237,Fresno State,0.763
+Boise State,0.991,Troy,0.009
+Idaho,0.0,Fresno State,1.0
+Navy,0.293,Hawai'i,0.707
+Sacramento State,0.282,San Diego State,0.718
+Connecticut,0.0,Boise State,1.0
+Tennessee Tech,0.001,Utah State,0.999
+Hawai'i,0.566,Army,0.434
+Wofford,0.085,Wyoming,0.915
+New Mexico,0.833,New Mexico State,0.167
+Prairie View,0.269,UNLV,0.731
+San Diego State,0.929,New Mexico,0.071
+UNLV,0.308,Hawai'i,0.692
+Illinois State,0.99,Colorado State,0.01
+UNLV,0.008,Arkansas State,0.992
+BYU,0.558,Boise State,0.442
+Air Force,0.11,Utah State,0.89
+Fresno State,0.954,UNLV,0.046
+Duquesne,0.007,Hawai'i,0.993
+Nevada,0.967,Air Force,0.033
+UNLV,0.76,San Diego State,0.24
+Utah State,0.982,Hawai'i,0.018
+Liberty,0.838,New Mexico,0.162
+Colorado State,0.002,Nevada,0.998
+Boise State,0.9,Wyoming,0.1
+Hawai'i,0.045,San José State,0.955
+Utah State,0.939,BYU,0.061
+Navy,0.015,Air Force,0.985
+San Diego State,0.898,Boise State,0.102
+New Mexico,0.993,UNLV,0.007
+Fresno State,0.9,Nevada,0.1
+Colorado State,0.846,San José State,0.154
+Wyoming,0.766,Hawai'i,0.234
+Air Force,0.227,San Diego State,0.773
+Army,0.999,San José State,0.001
+New Mexico,0.114,Colorado State,0.886
+UNLV,0.008,Utah State,0.992
+New Mexico State,0.002,Utah State,0.998
+Wyoming,0.011,Fresno State,0.989
+Boise State,0.996,New Mexico,0.004
+Hawai'i,0.017,BYU,0.983
+Boise State,0.428,Nevada,0.572
+Air Force,0.935,UNLV,0.065
+UNLV,0.117,San José State,0.883
+Fresno State,0.567,Boise State,0.433
+Wyoming,0.984,Colorado State,0.016
+Utah State,0.193,Wyoming,0.807
+Boise State,0.764,Air Force,0.236
+Hawai'i,0.006,Fresno State,0.994
+Colorado State,0.266,Air Force,0.734
+San Diego State,0.521,Nevada,0.479
+San José State,0.126,Wyoming,0.874
+Wyoming,0.995,New Mexico,0.005
+Fresno State,0.178,Boise State,0.822
+Utah State,0.248,Colorado State,0.752
+Fresno State,0.939,New Mexico,0.061
+Nevada,0.917,San José State,0.083
+San José State,0.0,Utah State,1.0
+San José State,0.273,San Diego State,0.727
+New Mexico,0.016,Air Force,0.984
+Nevada,0.315,Hawai'i,0.685
+New Mexico,0.0,Utah State,1.0
+San José State,0.095,Fresno State,0.905
+Air Force,0.174,Wyoming,0.826
+Nevada,0.233,UNLV,0.767
+Hawai'i,0.421,San Diego State,0.579
+Utah State,0.089,Boise State,0.911
+Air Force,0.468,Army,0.532
+Duquesne,0.0,UMass,1.0
+New Mexico State,0.007,BYU,0.993
+Liberty,0.032,Army,0.968
+UMass,0.017,Georgia Southern,0.983
+McNeese,0.015,BYU,0.985
+South Florida,0.996,UMass,0.004
+Troy,0.058,Liberty,0.942
+Liberty,0.016,New Mexico State,0.984
+New Mexico State,0.002,Louisiana,0.998
+Navy,0.004,Army,0.996
+Colgate,0.587,Army,0.413
+New Mexico State,0.125,Texas State,0.875
+Lafayette,0.038,Army,0.962
+UMass,0.746,Connecticut,0.254
+BYU,0.741,UMass,0.259
+Idaho State,0.546,Liberty,0.454
+Coastal Carolina,0.538,UMass,0.462
+Norfolk State,0.002,Liberty,0.998
+Georgia Southern,0.973,New Mexico State,0.027
+Notre Dame,0.955,Navy,0.045
+New Mexico State,0.789,Liberty,0.211
+Alcorn State,0.656,New Mexico State,0.344
+Liberty,0.005,UMass,0.995
+Kennesaw State,0.439,Georgia State,0.561
+South Carolina State,0.002,Georgia Southern,0.998
+Grambling,0.028,Louisiana,0.972
+Southeast Missouri State,0.029,Arkansas State,0.971
+Florida A&M,0.001,Troy,0.999
+Texas Southern,0.07,Texas State,0.93
+Coastal Carolina,0.967,Campbell,0.033
+Georgia State,0.0,Memphis,1.0
+Arkansas State,0.897,Tulsa,0.103
+Texas State,0.136,South Alabama,0.864
+Gardner-Webb,0.0,Appalachian State,1.0
+Coastal Carolina,0.256,Louisiana,0.744
+Troy,0.792,Louisiana Monroe,0.208
+South Alabama,0.031,Memphis,0.969
+Louisiana Monroe,0.002,Georgia State,0.998
+Coastal Carolina,0.005,Troy,0.995
+South Alabama,0.029,Appalachian State,0.971
+Arkansas State,0.096,Georgia Southern,0.904
+Georgia State,0.005,Troy,0.995
+Louisiana,0.721,Texas State,0.279
+Georgia Southern,0.468,Texas State,0.532
+Troy,0.953,South Alabama,0.047
+Louisiana Monroe,0.971,Coastal Carolina,0.029
+Georgia State,0.006,Arkansas State,0.994
+Appalachian State,0.001,Georgia Southern,0.999
+Louisiana,0.059,Appalachian State,0.941
+Louisiana,0.255,Appalachian State,0.745
+Arkansas State,0.213,Louisiana,0.787
+Coastal Carolina,0.006,South Alabama,0.994
+Georgia Southern,0.982,Georgia State,0.018
+Texas State,0.502,Louisiana Monroe,0.498
+Coastal Carolina,0.131,Georgia State,0.869
+Texas State,0.979,Georgia State,0.021
+Troy,0.716,Georgia Southern,0.284
+South Alabama,0.012,Arkansas State,0.988
+Georgia Southern,0.002,Louisiana Monroe,0.998
+Troy,0.011,Appalachian State,0.989
+Georgia State,0.005,Appalachian State,0.995
+Louisiana,0.881,Louisiana Monroe,0.119
+Louisiana,0.004,Troy,0.996
+Louisiana Monroe,0.007,Arkansas State,0.993
+Texas State,0.014,Troy,0.986
+Arkansas State,0.847,Texas State,0.153
+Appalachian State,0.999,Texas State,0.001
+Louisiana Monroe,0.985,South Alabama,0.015
+Georgia State,0.01,Louisiana,0.99
+Arkansas State,0.99,Coastal Carolina,0.01
+Georgia Southern,0.992,Coastal Carolina,0.008
+South Alabama,0.034,Louisiana,0.966
+Appalachian State,0.883,Coastal Carolina,0.117
+Southeastern Louisiana,0.597,Louisiana Monroe,0.403
+UCF,0.999,Connecticut,0.001
+Cincinnati,0.021,UCF,0.979
+Temple,0.917,Houston,0.083
+Elon,0.002,South Florida,0.998
+Houston,0.042,SMU,0.958
+Mercer,0.0,Memphis,1.0
+Central Arkansas,0.123,Tulsa,0.877
+North Carolina A&T,0.88,East Carolina,0.12
+Memphis,0.507,Navy,0.493
+South Carolina State,0.008,UCF,0.992
+Nicholls,0.037,Tulane,0.963
+Villanova,0.918,Temple,0.082
+Rhode Island,0.856,Connecticut,0.144
+Alabama A&M,0.0,Cincinnati,1.0
+Lehigh,0.0,Navy,1.0
+Tulsa,0.029,Temple,0.971
+Navy,0.125,SMU,0.875
+East Carolina,0.396,South Florida,0.604
+Texas Southern,0.007,Houston,0.993
+Memphis,0.057,Tulane,0.943
+Cincinnati,0.997,Connecticut,0.003
+Houston Baptist,0.001,SMU,0.999
+Tulsa,0.087,Houston,0.913
+East Carolina,0.02,Temple,0.98
+Tulane,0.179,Cincinnati,0.821
+Connecticut,0.0,Memphis,1.0
+SMU,0.015,UCF,0.985
+South Florida,0.772,Tulsa,0.228
+Temple,0.737,Navy,0.263
+UCF,0.75,Memphis,0.25
+Houston,0.988,East Carolina,0.012
+Navy,0.203,Tulane,0.797
+Tulane,0.007,Houston,0.993
+Memphis,0.907,SMU,0.093
+Tulane,0.65,Tulsa,0.35
+Cincinnati,0.312,Temple,0.688
+Houston,0.748,Navy,0.252
+Temple,0.115,UCF,0.885
+Navy,0.108,UCF,0.892
+South Florida,0.013,Temple,0.987
+Tulsa,0.013,Memphis,0.987
+Houston,0.072,Memphis,0.928
+East Carolina,0.0,Cincinnati,1.0
+SMU,0.828,Tulane,0.172
+SMU,0.909,Connecticut,0.091
+Memphis,0.928,East Carolina,0.072
+Memphis,0.665,UCF,0.335
+UCF,0.977,South Florida,0.023
+Temple,1.0,Connecticut,0.0
+Connecticut,0.125,South Florida,0.875
+UCF,0.985,East Carolina,0.015
+Navy,0.001,Cincinnati,0.999
+Cincinnati,0.029,SMU,0.971
+South Florida,0.029,Houston,0.971
+SMU,0.149,Tulsa,0.851
+East Carolina,0.068,Tulane,0.932
+Tulsa,0.085,Navy,0.915
+Connecticut,0.0,East Carolina,1.0
+Connecticut,0.004,Tulsa,0.996
+South Florida,0.557,Cincinnati,0.443
+Furman,0.0,Clemson,1.0
+Indiana St,0.169,Louisville,0.831
+Syracuse,0.857,Wake Forest,0.143
+NC State,0.929,Louisville,0.071
+Iowa State,0.948,Kansas,0.052
+TCU,0.955,Baylor,0.045
+Wisconsin,0.052,Penn State,0.948
+Arkansas State,0.01,Alabama,0.99
+The Citadel,0.0,Alabama,1.0
+Georgia,0.945,Kentucky,0.055
+USC,0.481,Arizona,0.519
+Oregon,0.006,Arizona,0.994
+Rice,0.001,Southern Mississippi,0.999
+Old Dominion,0.062,East Carolina,0.938
+Charlotte,0.145,Florida Atlantic,0.855
+Cincinnati,0.78,Miami (OH),0.22
+Miami (OH),0.202,Northern Illinois,0.798
+Central Michigan,0.008,Eastern Michigan,0.992
+Incarnate Word,0.26,New Mexico,0.74
+Colorado State,0.021,Boise State,0.979
+Southern Alabama,0.001,Georgia Southern,0.999
+Appalachian State,0.988,Arkansas State,0.012
+Alabama State,0.033,South Alabama,0.967
+Tulane,0.926,South Florida,0.074

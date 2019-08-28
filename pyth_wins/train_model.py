@@ -49,8 +49,17 @@ def main():
 	Y_predicted = clf.predict(X_test)
 	Y_prob = clf.predict_proba(X_test)
 
-	for x in range(len(Y_prob)):
-		print((games[x], Y_prob[x][1], Y_predicted[x]))
+	csv_columns = ["team1", "t1pyth", "team2", "t2pyth"]
+	with open('model_results.csv', 'w') as csvfile:
+		writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+		writer.writeheader()
+		for x in range(len(Y_prob)):
+			result = {}
+			result["team1"] = games[x][0]
+			result["t1pyth"] = round(1 - Y_prob[x][1], 3)
+			result["team2"] = games[x][1]
+			result["t2pyth"] = round(Y_prob[x][1], 3)
+			writer.writerow(result)
 
 if __name__ == '__main__':
 	main()
