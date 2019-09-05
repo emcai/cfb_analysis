@@ -33,9 +33,18 @@ I use individual game statistics and get the following data as an example:
 Each data result is indexed by the Game ID that ESPN assigns to an individual game. For this game, ESPN assigned a Game ID of 401012884.
 
 # 1.2: Pythagorean Wins
+Location: pyth_wins/train_model.py and pyth_wins/pyth_wins.py
+
 Run this command to get the model in the base directory of the repo:
+
 ```
-python pyth_wins/train_model.py data_scrape/2017.csv data_scrape/2018_Edited.csv > out.out
+python pyth_wins/train_model.py 2017.csv 2018_Edited.csv
 ```
 
-The result of the model will be in the file "out.out" in the base directory of the repo.
+And then for Pythagorean wins:
+
+```
+python pyth_wins/pyth_wins.py model_results.csv
+```
+
+The result of the model will be in the file "model_results.csv" in the base directory of the repo.

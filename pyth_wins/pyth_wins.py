@@ -7,7 +7,7 @@ def load_data(file_name):
 		reader = csv.reader(csvfile)
 		csvfile.readline()
 		for row in reader:
-			print(row)
+			#print(row)
 			if row[0] not in wins:
 				wins[row[0]] = float(row[1])
 			else:
@@ -16,6 +16,7 @@ def load_data(file_name):
 				wins[row[2]] = float(row[3])
 			else:
 				wins[row[2]] = float(row[3])
+	return wins
 
 def main():
 	if len(sys.argv) != 2:
