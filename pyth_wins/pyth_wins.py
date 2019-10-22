@@ -15,7 +15,7 @@ def load_data(file_name):
 			if row[2] not in wins:
 				wins[row[2]] = float(row[3])
 			else:
-				wins[row[2]] = float(row[3])
+				wins[row[2]] += float(row[3])
 	return wins
 
 def main():

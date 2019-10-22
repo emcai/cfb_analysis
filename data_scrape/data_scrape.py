@@ -55,6 +55,9 @@ def game_scrape(year, conf = None, team = None, postseason = False):
 				game_string += (result["away_team"] + " @ " + result["home_team"] + ": " + str(result["away_points"]) + "-" + str(result["home_points"]))
 			else:
 				game_string += (result["away_team"] + " vs " + result["home_team"] + ": " + str(result["away_points"]) + "-" + str(result["home_points"]))
+			#skip all future games
+			if result["away_points"] is None or result["home_points"] is None:
+				continue
 			game_list[result["id"]] = {"info" : game_string}
 			#mark the game winner
 			if result["away_points"] < result["home_points"]:
@@ -110,7 +113,7 @@ def results_scrape(year, conf = None, game = None, team = None, postseason = Fal
 		#calculate yards per play margin
 		team_1_ypp = float(team_1_stats[team_1_indexes[0]]["stat"]) / (float(team_1_stats[team_1_indexes[1]]["stat"]) + float(team_1_stats[team_1_indexes[2]]["stat"].split('-')[1]))
 		team_2_ypp = float(team_2_stats[team_2_indexes[0]]["stat"]) / (float(team_2_stats[team_2_indexes[1]]["stat"]) + float(team_2_stats[team_2_indexes[2]]["stat"].split('-')[1]))
-		
+
 		#build the result dict
 		relevant = {}
 		relevant["info"] = game_list[game]["info"]
@@ -121,26 +124,27 @@ def results_scrape(year, conf = None, game = None, team = None, postseason = Fal
 
 		stats_list.append(relevant)
 		del game_list[game]
-	
+
 def main():
 	#get 2018 data
 	for conf in conferences:
-		game_scrape(2018, conf=conf)
-		game_scrape(2018, conf=conf, postseason=True)
-		
+		game_scrape(2019, conf=conf)
+		game_scrape(2019, conf=conf, postseason=True)
+
 	for conf in conferences:
-		results_scrape(2018, conf=conf)
-		results_scrape(2018, conf=conf, postseason=True)
+		results_scrape(2019, conf=conf)
+		results_scrape(2019, conf=conf, postseason=True)
 
 	csv_columns = ["info", "to_margin", "ypp_margin", "yds_margin", "result"]
-	with open('2018.csv', 'w') as csvfile:
+	with open('2019.csv', 'w') as csvfile:
 		writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
 		writer.writeheader()
 		for data in stats_list:
 			writer.writerow(data)
-			
+
 	print(exclusion_list)
 
+	'''
 	game_list.clear()
 	stats_list.clear()
 
@@ -148,7 +152,7 @@ def main():
 	for conf in conferences:
 		game_scrape(2017, conf=conf)
 		game_scrape(2017, conf=conf, postseason=True)
-		
+
 	for conf in conferences:
 		results_scrape(2017, conf=conf)
 		results_scrape(2017, conf=conf, postseason=True)
@@ -159,6 +163,7 @@ def main():
 		writer.writeheader()
 		for data in stats_list:
 			writer.writerow(data)
+	'''
 
 if __name__ == '__main__':
 	main()
